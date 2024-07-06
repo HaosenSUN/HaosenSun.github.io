@@ -1,4 +1,4 @@
-![image](https://github.com/HaosenSUN/HaosenSun.github.io/assets/103928629/bf89d1a2-00c4-4fa3-a55e-2807258a786f)---
+---
 permalink: /
 title: ""
 excerpt: ""
