@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Hi, there! I’m Haosen.
+# Welcome!
 
 I will be starting as a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in the fall of 2024. I completed my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on neural radiance fields (NeRF), inpainting diffusion models (SD) and neural architecture search (NAS). I had the privilege of working with [Prof. Xiaomeng Li](https://xmengli.github.io/) through the Undergraduate Research Opportunities Program (UROP), where I learned **Medical** Vision Language Models (VLMs). 
 
-I am passionate about several research areas, including large multimodal models (LMMs), multi-modalities generative AI, 3D vision, and AutoML. My primary objective is to empower machines with the ability to extract meaningful patterns and relationships from both structured data, such as text, images, and video, and unstructured 3D geometric data. Concurrently, I hope to enhance the interpretability and explainability of these models, propelling us closer to the realization of human-centric and physically-based general artificial intelligence.
+I am passionate about several research areas, including **large multimodal models** (LMMs), **multi-modalities generative AI**, **3D vision**, and **AutoML**. My primary objective is to empower machines with the ability to extract meaningful patterns and relationships from both **structured data** (such as text, images, and video) and **unstructured 3D geometric data**. Concurrently, I hope to enhance the interpretability and explainability of these models, propelling us closer to the realization of human-centric and physically-based general artificial intelligence.
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 Two papers accepted by ECCV 2024!
+- *2024.06*: &nbsp;🎉🎉 I earned the title of Kaggle Expert.
+- *2024.06*: &nbsp;🎉🎉 I won the **silver medal**&nbsp;🥈 in ["Image Matching Challenge 2024 - Hexathlon"](https://www.kaggle.com/competitions/image-matching-challenge-2024) _(CVPR’24 Workshop)_, ranked 28/929, and [our solution](https://github.com/HaosenSUN/IMC-2024) was released.
 
 # 📝 Publications 
 
