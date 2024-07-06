@@ -39,12 +39,13 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ </center>Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search </center>](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
+[Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
 
 **Haosen Sun**, Peijie Dong, Zimian Wei, Shitong Shao, Lujun Li 
 
 [**Project**](https://github.com/HaosenSUN/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).
+- Auto-DAS generalizes well to various architectures and search spaces (e.g. ResNet, ViT, NAS-Bench-101, and NAS-Bench-201), achieving state-of-the-art results in both ranking correlation and final searched accuracy. 
 </div>
 </div>
 
