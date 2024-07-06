@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I will be starting as a Master's student in Computer Science at Northwestern University in the fall of 2024. I completed my bachelor's degree in Data Science and Technology at the Hong Kong University of Science and Technology, under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on neural radiance fields (NeRF), inpainting diffusion models and neural architecture search (NAS). I had the privilege of working with [Prof. Xiaomeng Li](https://xmengli.github.io/) through the Undergraduate Research Opportunities Program (UROP), where I learned robust and generalized methods for medical image analysis. 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
