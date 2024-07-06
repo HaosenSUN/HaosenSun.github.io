@@ -39,7 +39,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search]()
+[Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
 
 **Haosen Sun**, Peijie Dong, Zimian Wei, Shitong Shao, Lujun Li 
 
