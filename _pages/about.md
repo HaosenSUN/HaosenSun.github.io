@@ -35,7 +35,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2023.11*: &nbsp;🎉🎉 Received a _Silver medal_&nbsp;🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616. [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 # 📝 Publications 
-
 _\* indicates equal contribution_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
