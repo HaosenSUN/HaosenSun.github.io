@@ -117,7 +117,7 @@ _arXiv:2305.12843_, May 2023
 ### Additional Publications
 
 - [Measuring road safety achievement based on EWM-GRA-SVD: A
-decision-making support system for APEC countries](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888), Faan Chen, Lin Shi, Yaxin Li, Qilin Wang, **Haosen Sun**, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, **Knowledge-Based Systems**
+decision-making support system for APEC countries](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888), Faan Chen<sup>\*</sup>, Lin Shi<sup>\*</sup>, Yaxin Li, Qilin Wang, **Haosen Sun**, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, **Knowledge-Based Systems**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
