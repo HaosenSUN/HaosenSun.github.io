@@ -36,7 +36,6 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 _\* indicates equal contribution_
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
