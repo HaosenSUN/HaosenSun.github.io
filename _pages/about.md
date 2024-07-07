@@ -72,7 +72,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 [Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models](https://arxiv.org/abs/2401.00208)
 
-Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang
+Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang      <font size=2>_(\* indicates equal contribution)_</font>
 
 _arXiv:2401.00208_, Dec 2023
 
