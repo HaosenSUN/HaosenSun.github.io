@@ -36,6 +36,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
+#### _\* indicates equal contribution_
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,7 +74,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 [Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models](https://arxiv.org/abs/2401.00208)
 
-Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang      <font size=2>_(\* indicates equal contribution)_</font>
+Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang  
 
 _arXiv:2401.00208_, Dec 2023
 
