@@ -118,7 +118,6 @@ _arXiv:2305.12843_, May 2023
 
 - [Measuring road safety achievement based on EWM-GRA-SVD: A
 decision-making support system for APEC countries](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888),
-
 Faan Chen<sup>\*</sup>, Lin Shi<sup>\*</sup>, Yaxin Li, Qilin Wang, **Haosen Sun**, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, 
 **Knowledge-Based Systems**
 
