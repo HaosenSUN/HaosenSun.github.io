@@ -52,7 +52,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-DAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
