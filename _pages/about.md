@@ -99,7 +99,25 @@ _arXiv:2305.12843_, May 2023
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Registering Neural Radiance Fields as 3D Density Images](https://arxiv.org/abs/2305.12843)
+
+Han Jiang<sup>\*</sup>, Ruoxuan Li<sup>\*</sup>, **Haosen Sun**, Yu-Wing Tai, Chi-Keung Tang
+
+_arXiv:2305.12843_, May 2023
+
+[**Project**](https://arxiv.org/abs/2305.12843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- <font size=2>We proposes a method to align and merge pre-trained NeRF models of partially overlapping 3D scenes using a generalized registration pipeline, incorporating key point detection, point set registration, and universal pre-trained descriptor networks with contrastive learning strategy.</font>
+
+</div>
+</div>
+
+### Additional Publications
+
+- [Measuring road safety achievement based on EWM-GRA-SVD: A
+decision-making support system for APEC countries](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888), Faan Chen, Lin Shi, Yaxin Li, Qilin Wang, **Haosen Sun**, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, **Knowledge-Based Systems**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
