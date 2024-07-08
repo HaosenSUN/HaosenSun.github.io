@@ -106,8 +106,19 @@ Faan Chen<sup>\*</sup>, Lin Shi<sup>\*</sup>, Yaxin Li, Qilin Wang, **Haosen Sun
 **Knowledge-Based Systems**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.07* HKUST **Admissions Scholarship** (Kerry Holdings Limited Scholarship, HK$280,000)	
+- *2024.06* **The Dean List** Award, Top 10%
+- *2024.06* **Silver Medal** in [_Image Matching Challenge 2024 - Hexathlon_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929
+- *2023.11* **Silver Medal** in Kaggle Competition [(_Google - Fast or Slow? Predict AI Model Runtime_)](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616
+- *2022.08* **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
+- *2019.10* **Bronze medal** and the **First Prize** in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%!
+- *2019.07* the	**Third Prize** in the 28<sup>th</sup> China National Biology Olympiad (CNBO), Top 5%
+
+
+
+
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
