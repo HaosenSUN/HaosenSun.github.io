@@ -74,7 +74,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang  
 
-_arXiv:2401.00208_, Dec 2023
+_arXiv:2401.00208 (Submitted to CVPR'24)_, Dec 2023
 
 [**Project**](https://inpaint4dnerf.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general which can be readily extended to 4D dynamic NeRFs.</font>
@@ -123,7 +123,10 @@ Faan Chen<sup>\*</sup>, Lin Shi<sup>\*</sup>, Yaxin Li, Qilin Wang, **Haosen Sun
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *10/2023 – 05/2024*, Hong Kong Generative AI Research and Development Center (HKGAI), Hong Kong.
+  _Research Intern_, working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).
+
+
