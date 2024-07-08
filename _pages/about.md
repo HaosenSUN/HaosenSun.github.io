@@ -104,7 +104,7 @@ _Arxiv Preprint_, May 2023
 - [Measuring road safety achievement based on EWM-GRA-SVD: A
 decision-making support system for APEC countries](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888),
 Faan Chen<sup>\*</sup>, Lin Shi<sup>\*</sup>, Yaxin Li, Qilin Wang, **Haosen Sun**, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, 
-**Knowledge-Based Systems**
+_**Knowledge-Based Systems**_
 
 # 🎖 Honors and Awards
 - *2020.09 - 2024.07* HKUST **Admissions Scholarship** (Kerry Holdings Limited Scholarship, HK$280,000)	
