@@ -24,7 +24,7 @@ I will be starting as a Master's student in [Computer Science](https://www.mccor
 
 I am passionate about several research areas, including **large multimodal models** (LMMs), **multi-modalities generative AI**, **3D vision**, and **AutoML**. My primary objective is to empower machines with the ability to extract meaningful patterns and relationships from both **structured data** (e.g. text, images, and video) and **unstructured 3D geometric data**. Concurrently, I hope to enhance the interpretability and explainability of these models, propelling us closer to the realization of **human-centric** and **physically-based** general artificial intelligence. 
 
-<font color=#008000>I am looking to apply for a PhD position starting in **Fall 2025/26**. Please reach out if you share similar research interests!</font>
+<font color=#008000 >I am looking to apply for a PhD position starting in **Fall 2025/26**. Please reach out if you share similar research interests!</font>
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
