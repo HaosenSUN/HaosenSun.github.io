@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## Welcome! I'm **Haosen**.
+## Welcome! I'm **_Haosen_**.
 
 I will be starting as a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in the fall of 2024. I completed my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on Neural Radiance Fields (NeRF), Diffusion Models (SD), and Neural Architecture Search (NAS). I had the opportunity to collaborate with [Prof. Xiaomeng Li](https://xmengli.github.io/) as part of the Undergraduate Research Opportunities Program (UROP), where I learned **Medical** Vision Language Models (VLMs).
 
