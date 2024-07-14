@@ -31,7 +31,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Two papers accepted by _ECCV 2024!_
+- *2024.07*: &nbsp;🎉🎉 Two papers accepted by _**ECCV 2024**!_
 - *2024.06*: &nbsp;🎉🎉 Awarded _"Kaggle Competitions Expert"_.
 - *2024.06*: &nbsp;🎉🎉 Honored the Dean List Award in Spring 2023-24.
 - *2024.06*: &nbsp;🎉🎉 Received a _Silver medal_ 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929. [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
