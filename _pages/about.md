@@ -34,8 +34,8 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted by _**ECCV 2024**!_
 - *2024.06*: &nbsp;🎉🎉 Awarded _"Kaggle Competitions Expert"_.
 - *2024.06*: &nbsp;🎉🎉 Honored the Dean List Award in Spring 2023-24.
-- *2024.06*: &nbsp;🎉🎉 Received a _Silver medal_ 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929. [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
-- *2023.11*: &nbsp;🎉🎉 Received a _Silver medal_ 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616. [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
+- *2024.06*: &nbsp;🎉🎉 Received a [_Silver medal_](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929. [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
+- *2023.11*: &nbsp;🎉🎉 Received a [_Silver medal_](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616. [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 # 📝 Publications 
 _\* indicates equal contribution_
@@ -111,8 +111,8 @@ _**Knowledge-Based Systems**_
 # 🎖 Honors and Awards
 - *2020.09 - 2024.07* HKUST **Admissions Scholarship** (Kerry Holdings Limited Scholarship, HK$280,000)	
 - *2024.06* **The Dean List** Award, Top 10%
-- *2024.06* **Silver Medal** in [_Image Matching Challenge 2024 - Hexathlon_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929
-- *2023.11* **Silver Medal** in Kaggle Competition [(_Google - Fast or Slow? Predict AI Model Runtime_)](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616
+- *2024.06* [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024), ranked 28<sup>th</sup>/ 929
+- *2023.11* [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616
 - *2022.08* **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
 - *2019.10* **Bronze medal** and the **First Prize** in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%!
 - *2019.07* the	**Third Prize** in the 28<sup>th</sup> China National Biology Olympiad (CNBO), Top 5%
