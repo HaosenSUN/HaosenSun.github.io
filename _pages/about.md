@@ -19,7 +19,7 @@ redirect_from:
 
 ## Welcome! I'm **_Haosen_**.
 
-I will be starting as a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in the fall of 2024. I am currently working as a research intern at [**Shanghai AI Lab**](https://www.shlab.org.cn/). I completed my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on Neural Radiance Fields (NeRF), Diffusion Models (SD), and Neural Architecture Search (NAS). I had the opportunity to collaborate with [Prof. Xiaomeng Li](https://xmengli.github.io/) as part of the Undergraduate Research Opportunities Program (UROP), where I learned **Medical** Vision Language Models (VLMs).
+I will be starting as a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in the fall of 2024. I am currently working as a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/). I completed my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on Neural Radiance Fields (NeRF), Diffusion Models (SD), and Neural Architecture Search (NAS). I had the opportunity to collaborate with [Prof. Xiaomeng Li](https://xmengli.github.io/) as part of the Undergraduate Research Opportunities Program (UROP), where I learned **Medical** Vision Language Models (VLMs).
 
 
 I am passionate about several research areas, including **large multimodal models** (LMMs), **multi-modalities generative AI**, **3D vision**, and **AutoML**. My primary objective is to empower machines with the ability to extract meaningful patterns and relationships from both **structured data** (e.g. text, images, and video) and **unstructured 3D geometric data**. Concurrently, I hope to enhance the interpretability and explainability of these models, propelling us closer to the realization of **human-centric** and **physically-based** general artificial intelligence. 
@@ -31,6 +31,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted by _**ECCV 2024**!_
 - *2024.06*: &nbsp;🎉🎉 Awarded _"Kaggle Competitions Expert"_.
 - *2024.06*: &nbsp;🎉🎉 Honored the Dean List Award in Spring 2023-24.
@@ -129,7 +130,12 @@ _**Knowledge-Based Systems**_
 -->
 
 # 💻 Internships
-- *10/2023 – 05/2024*, Hong Kong Generative AI Research and Development Center (HKGAI), Hong Kong.
-  _Research Intern_, working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).
+- *08/2024 – present*, Shanghai Artificial Intelligence Laboratory, _China_.
+
+  **_Research Intern_**, working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).
+  
+- *10/2023 – 05/2024*, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
+
+  **_Research Intern_**, working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).
 
 
