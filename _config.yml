@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haosen Sun"
-description              : ""
+description              : "Research Intern @ Shanghai AI Laboratory"
 repository               : "Haosen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haosen Sun"
   avatar           : "images/Haosen.png"
-  bio              : "Northwestern University | Shanghai AI Lab"
+  bio              : "Northwestern University"
   location         : "Evanston, USA"
   employer         :
   pubmed           : 
