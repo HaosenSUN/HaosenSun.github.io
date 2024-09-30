@@ -19,19 +19,19 @@ redirect_from:
 
 ## Welcome! I'm **_Haosen_**.
 
-I will be starting as a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in the fall of 2024. I am currently working as a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/). I completed my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). My research during my undergraduate studies focused on Neural Radiance Fields (NeRF), Diffusion Models (SD), and Neural Architecture Search (NAS). I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision Language Models (VLMs) as part of the UROP program.
+I will be starting my Master's in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/) in Fall 2024. Currently, I am working with [Prof. Manling Li](https://limanling.github.io/) at NU-MLL-Group, collaborating with the [Stanford Vision and Learning Lab](https://svl.stanford.edu/). Previously, I was a research intern at the [Shanghai AI Lab](https://www.shlab.org.cn/). I earned my bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I worked under the guidance of [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 
+My research interests span **Large Multimodal Models**, **Multi-modalities Generative AI**, **3D Vision**, and **Efficient AI**. My goal is to empower machines with the ability to extract meaningful patterns and relationships from both structured data (e.g. text, images, and video) and unstructured 3D geometric data. Additionally, I hope to enhance the interpretability and explainability of these models, advancing us toward the development of **human-centered** and **physically-grounded** general artificial intelligence.
 
-I am passionate about several research areas, including **Large Multimodal Models**, **Multi-modalities Generative AI**, **3D Vision**, and **Efficient AI**. My ultimate goal is to empower machines with the ability to extract meaningful patterns and relationships from both structured data (e.g. text, images, and video) and unstructured 3D geometric data. Also, I hope to enhance the interpretability and explainability of these models, propelling us closer to the realization of **human-centric** and **physically-based** general artificial intelligence.
-
-<span style="color:purple">I am seeking a **_PhD_** position starting in _**Fall 2025/26**_. Please reach out if you share similar research interests!</span>
+<span style="color:purple">I am actively seeking a _**PhD**_ position beginning in _**Fall 2025/26**_. If our research interests align, please feel free to connect!</span>
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
+- *2024.09*: &nbsp;🎉🎉 Will serve as ICLR 2025 Reviewer.
+- *2024.07*: &nbsp;🎉🎉 Join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted by _**ECCV 2024**!_
 - *2024.06*: &nbsp;🎉🎉 Awarded _"Kaggle Competitions Expert"_.
 - *2024.06*: &nbsp;🎉🎉 Honored the Dean List Award in Spring 2023-24.
