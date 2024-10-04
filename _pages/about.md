@@ -65,7 +65,7 @@ Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Qifeng Liu, Wei Xue, Yike Guo
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
-[**[Project Code]**](https://github.com/HaosenSUN/Auto-GAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Code]**](https://github.com/HaosenSUN/Auto_GAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce Auto-GAS, the first training-free Generation Architecture Search (GAS) framework enabled by an auto-discovered proxy, which achieves competitive scores with 110× faster search than GAN Compression.</font>
 
 </div>
