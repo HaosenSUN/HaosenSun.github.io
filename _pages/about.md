@@ -43,7 +43,7 @@ _\* indicates equal contribution_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-GAS_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
+[Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf)
 
 **Haosen Sun**, Peijie Dong, Zimian Wei, Shitong Shao, Lujun Li 
 
@@ -59,7 +59,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Auto-DAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=en)
+[Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf)
 
 Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Qifeng Liu, Wei Xue, Yike Guo
 
