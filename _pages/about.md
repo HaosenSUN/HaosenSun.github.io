@@ -49,7 +49,7 @@ _\* indicates equal contribution_
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
-[**[Project Code]**](https://github.com/HaosenSUN/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Code]**](https://github.com/HaosenSUN/Auto-DAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).</font>
 - <font size=2>Auto-DAS generalizes well to various architectures and search spaces (e.g. ResNet, ViT, NAS-Bench-101, and NAS-Bench-201), achieving state-of-the-art results in both ranking correlation and final searched accuracy.</font>
 
@@ -65,7 +65,7 @@ Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Qifeng Liu, Wei Xue, Yike Guo
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
-[**[Project Code]**](https://github.com/HaosenSUN/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Code]**](https://github.com/HaosenSUN/Auto-GAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce Auto-GAS, the first training-free Generation Architecture Search (GAS) framework enabled by an auto-discovered proxy, which achieves competitive scores with 110× faster search than GAN Compression.</font>
 
 </div>
