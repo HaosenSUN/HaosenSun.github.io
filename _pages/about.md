@@ -130,7 +130,7 @@ _**Knowledge-Based Systems**_
 -->
 
 # 💻 Internships
-- *08/2024 – present*, Shanghai Artificial Intelligence Laboratory, _China_.
+- *07/2024 – 09/2024*, Shanghai Artificial Intelligence Laboratory, _China_.
 
   **_Research Intern_**, working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).
   
