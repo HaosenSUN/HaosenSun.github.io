@@ -51,8 +51,8 @@ Jinhui Ye, Zihan Wang, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
 [**[Project Code]**]() [**[Paper]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).</font>
-- <font size=2>Auto-DAS generalizes well to various architectures and search spaces (e.g. ResNet, ViT, NAS-Bench-101, and NAS-Bench-201), achieving state-of-the-art results in both ranking correlation and final searched accuracy.</font>
+- <font size=2>We introduce LV-Haystack, a new benchmark for evaluating keyframe search in long videos.</font>
+- <font size=2>We propose T*, a novel framework that treats temporal search as spatial search with adaptive zooming, significantly improving long-form video understanding performance.</font>
 
 </div>
 </div>
