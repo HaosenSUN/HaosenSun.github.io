@@ -48,7 +48,7 @@ _\* indicates equal contribution_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/frameworkv10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Re-thinking Temporal Search for Long-Form Video Understanding](link_here)
+[Re-thinking Temporal Search for Long-Form Video Understanding]()
 
 Jinhui Ye, Zihan Wang, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei, Jiajun Wu, Manling Li
 
