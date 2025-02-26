@@ -34,7 +34,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Two papers submiited to _**CVPR 2024**!_
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by _**CVPR 2024**!_
 - *2024.09*: &nbsp;🎉🎉 Will serve as ICLR 2025 Reviewer.
 - *2024.07*: &nbsp;🎉🎉 Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: &nbsp;🎉🎉 Two papers accepted by _**ECCV 2024**!_
