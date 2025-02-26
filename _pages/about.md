@@ -54,7 +54,7 @@ Jinhui Ye, Zihan Wang, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, 
 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
-[**[Project]**](https://longvideohaystack.github.io/) [**[Paper]**]() [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**]() [**[Project Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce LV-Haystack, a new benchmark for evaluating keyframe search in long videos, and propose T*, a novel framework that models temporal search as spatial search with adaptive zooming, significantly improving SOTA long-form video understanding performance.</font>
 
 </div>
