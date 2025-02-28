@@ -51,7 +51,7 @@ _\* indicates equal contribution_
 
 [Re-thinking Temporal Search for Long-Form Video Understanding]()
 
-Jinhui Ye, Zihan Wang, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei, Jiajun Wu, Manling Li
+Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei, Jiajun Wu, Manling Li
 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
