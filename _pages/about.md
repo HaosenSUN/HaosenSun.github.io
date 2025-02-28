@@ -27,7 +27,7 @@ I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medi
 
 My research interests span **Multi-modalities Generative AI**, **3D Vision**, **Embodied AI**, and **Efficient AI**. My goal is to empower machines with the ability to extract meaningful patterns and relationships from both structured data (e.g. text, images, and video) and unstructured 3D geometric data. Additionally, I hope to enhance the interpretability and explainability of these models, advancing us toward the development of **human-centered** and **physically-grounded** general artificial intelligence.
 
-<span style="color:purple">I am actively seeking a _**PhD**_ position beginning in _**Fall 2025/26**_. If our research interests align, please feel free to connect!</span>
+<span style="color:purple">I am actively seeking a _**PhD**_ position beginning in _**Fall 2026**_. If our research interests align, please feel free to connect!</span>
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -57,7 +57,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
 [**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**]() [**[Project Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
-- <font size=2>Our framework <strong>_T*_</strong> reframed temporal search as spatial search with adaptive zooming, boosting GPT-4o from 50.5% to <strong>53.1%</strong> and LLaVA-OV from <em>56.5%</em> to <strong>62.4%</strong> on LongVideoBench XL.</font>
+- <font size=2>Our framework <strong><em>T*</em></strong> reframed temporal search as spatial search with adaptive zooming, boosting GPT-4o from 50.5% to <strong>53.1%</strong> and LLaVA-OV from <em>56.5%</em> to <strong>62.4%</strong> on LongVideoBench XL.</font>
 
 </div>
 </div>
