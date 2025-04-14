@@ -34,12 +34,12 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2025.02*: One paper accepted by _**CVPR 2024**!_
+- *2025.02*: One paper accepted by **CVPR 2024**!
 - *2025.02*: Will serve as ACMMM 2025 Reviewer.
 - *2024.09*: Will serve as ICLR 2025 Reviewer.
 - *2024.07*: Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
-- *2024.07*: Two papers accepted by _**ECCV 2024**!_
-- *2024.06*: Awarded _"Kaggle Competitions Expert"_.
+- *2024.07*: Two papers accepted by **ECCV 2024**!
+- *2024.06*: Awarded "Kaggle Competitions Expert".
 - *2024.06*: Honored the Dean List Award in Spring 2023-24.
 - *2024.06*: Received a [_Silver medal_](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929. [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
 - *2023.11*: &nbsp; Received a [_Silver medal_](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616. [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
