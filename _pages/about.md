@@ -35,8 +35,6 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 - *2025.02*: One paper accepted by **CVPR 2024**!
-- *2025.02*: Will serve as ACMMM 2025 Reviewer.
-- *2024.09*: Will serve as ICLR 2025 Reviewer.
 - *2024.07*: Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: Two papers accepted by **ECCV 2024**!
 - *2024.06*: Awarded _"Kaggle Competitions Expert"_.
@@ -145,11 +143,10 @@ _**Knowledge-Based Systems**_
 - *2024.09 - 2026.06 (now)*, **_M.S._** in **Computer Science**, Northwestern University, _USA_
 - *2020.09 - 2024.07*, **_BSc_** in **Data Science and Technology**, Hong Kong University of Science and Technology (HKUST), _Hong Kong_
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
+# 💬 Academic Services
+- *Conference Reviewer:* ACMMM 2025, ICLR 2025
+
 
 # 💻 Internships
 - *07/2024 – 09/2024*, Shanghai Artificial Intelligence Laboratory, _China_.
