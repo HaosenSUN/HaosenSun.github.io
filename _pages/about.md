@@ -25,7 +25,7 @@ I am a Master's student in [Computer Science](https://www.mccormick.northwestern
 I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 -->
 
-My research focuses on <span style="color:#9370DB;">**foundation models**, **spatial reasoning**, **3D vision**, and **embodied AI**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing toward human-centered and physically grounded general AI.
+My research focuses on <span style="color:#9370DB;">**Foundation Models**</span>, <span style="color:#9370DB;">**Spatial Reasoning**</span>, <span style="color:#9370DB;">**3D Vision**</span>, and <span style="color:#9370DB;">**embodied AI**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing toward human-centered and physically grounded general AI.
 
 <span style="color:purple">I am actively seeking a _**PhD**_ position beginning in _**Fall 2026**_. If our research interests align, please feel free to connect!</span>
 
