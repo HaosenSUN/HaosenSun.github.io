@@ -145,7 +145,7 @@ _**Knowledge-Based Systems**_
 
 
 # 💬 Academic Services
-- *Conference Reviewer:* MM(2025), ICLR(2025)
+- *Conference Reviewer:* ACM MM, ICLR
 
 
 # 💻 Internships
