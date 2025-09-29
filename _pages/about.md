@@ -34,14 +34,14 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2025.09*: Will release our new work on arXiv, introducing a unified ODE-based framework for activation steering in LLM alignment.
+- *2025.09*: Will release our new work on _arXiv_, introducing a unified _ODE-based_ framework for activation steering in LLM alignment.
 - *2025.02*: One paper accepted by **CVPR 2024**!
 - *2024.07*: Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: Two papers accepted by **ECCV 2024**!
 - *2024.06*: Awarded _"Kaggle Competitions Expert"_.
 - *2024.06*: Honored the Dean List Award in _Spring 2023-24_.
-- *2024.06*: Received a [Silver medal](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop), ranked 28<sup>th</sup>/ 929. [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
-- *2023.11*: Received a [Silver medal](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616. [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
+- *2024.06*: Received a [Silver medal](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop). [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
+- *2023.11*: Received a [Silver medal](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime). [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 # 📝 Publications 
 _\* indicates equal contribution_
@@ -141,12 +141,12 @@ _**Knowledge-Based Systems**_
 
 
 # 📖 Educations
-- *2024.09 - 2026.06 (now)*, **_M.S._** in **Computer Science**, Northwestern University, _USA_
+- *2024.09 - 2026.06 (now)*, **_M.S._** in **Computer Science**, Northwestern University, _Evanston, IL_
 - *2020.09 - 2024.07*, **_BSc_** in **Data Science and Technology**, Hong Kong University of Science and Technology (HKUST), _Hong Kong_
 
 
 # 💬 Academic Services
-- *Conference Reviewer:* ACM MM, ICLR
+- *Conference Reviewer:* ICLR, ACM Multimedia
 
 
 # 💻 Internships
