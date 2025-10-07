@@ -27,7 +27,7 @@ I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medi
 
 My research focuses on <span style="color:#9370DB;">**Foundation Models**</span>, <span style="color:#9370DB;">**Multimodal Generative Models**</span>, <span style="color:#9370DB;">**Spatial Reasoning**</span>, and <span style="color:#9370DB;">**Embodied Intelligence**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing to **human-centered** and **physically grounded** general AI.
 
-<span style="color:#9370DB;">I am seeking <strong><em>PhD</em></strong> opportunities starting in <strong><em>Fall 2026</em></strong>. If our research interests overlap, I would love to connect!</span>
+I am seeking <span style="color:#9370DB;"> <strong><em>PhD</em></strong></span> opportunities starting in <span style="color:#9370DB;"> <strong><em>Fall 2026</em></strong></span>. If our research interests overlap, I would love to connect!
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
