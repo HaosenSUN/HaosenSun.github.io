@@ -54,9 +54,9 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 
 _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
 
-[**[Project Page]**]() [**[Paper]**]() [**[Project Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
-- <font size=2>We propose <strong>BODES</strong> (Barrier function-guided ODE Steering), a unified _ODE-based_ framework for <em>multi-step and adaptive</em> activation steering using control barrier functions.</font>  
-- <font size=2>**BODES** bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+7%), RealToxicityPrompts (+2%), and UltraFeedback (+2%).</font>  
+**[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+- <font size=2>We propose <strong>BODES</strong> (Barrier function-guided ODE Steering), a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering using control barrier functions.</font>  
+- <font size=2><strong>BODES</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+7%), RealToxicityPrompts (+2%), and UltraFeedback (+2%).</font>  
 
 </div>
 </div>
@@ -70,7 +70,7 @@ Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chan
 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
-[**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Project Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
 - <font size=2>Our framework <strong><em>T*</em></strong> reframed temporal search as spatial search with adaptive zooming, boosting GPT-4o from 50.5% to <strong>53.1%</strong> and LLaVA-OV from <em>56.5%</em> to <strong>62.4%</strong> on LongVideoBench XL.</font>
 
@@ -86,7 +86,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
-[**[Project Code]**](https://github.com/HaosenSUN/Auto-DAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf) [**[Code]**](https://github.com/HaosenSUN/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).</font>
 - <font size=2>Auto-DAS generalizes well to various architectures and search spaces (e.g. ResNet, ViT, NAS-Bench-101, and NAS-Bench-201), achieving state-of-the-art results in both ranking correlation and final searched accuracy.</font>
 
@@ -102,7 +102,7 @@ Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Qifeng Liu, Wei Xue, Yike Guo
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
-[**[Project Code]**](https://github.com/HaosenSUN/Auto_GAS) [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) [**[Code]**](https://github.com/HaosenSUN/Auto_GAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce Auto-GAS, the first training-free Generation Architecture Search (GAS) framework enabled by an auto-discovered proxy, which achieves competitive scores with 110× faster search than GAN Compression.</font>
 
 </div>
@@ -117,7 +117,7 @@ Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu
 
 _Arxiv Preprint (Submitted to CVPR'24)_, Dec 2023
 
-[**[Project Page]**](https://inpaint4dnerf.github.io/) [**[Paper]**](https://arxiv.org/abs/2401.00208) [**[Project Code]**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Project Page]**](https://inpaint4dnerf.github.io/) [**[Paper]**](https://arxiv.org/abs/2401.00208) [**[Code]**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general which can be readily extended to 4D dynamic NeRFs.</font>
 
 </div>
