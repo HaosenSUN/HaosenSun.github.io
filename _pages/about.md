@@ -45,6 +45,22 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 _\* indicates equal contribution_
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/BODES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Activation Steering for LLM Alignment via a Unified ODE-Based Framework]()  
+
+Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li, Huajie Shao
+
+_International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
+
+[**[Project Page]**]() [**[Paper]**]() [**[Project Code]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+- <font size=2>We propose <strong>BODES (Barrier function-guided ODE Steering)</strong>, a unified ODE-based framework for <em>multi-step and adaptive</em> activation steering using control barrier functions.</font>  
+- <font size=2>BODES bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+7%), RealToxicityPrompts (+2%), and UltraFeedback (+2%).</font>  
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
