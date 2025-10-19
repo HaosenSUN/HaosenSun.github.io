@@ -50,7 +50,7 @@ _\* indicates equal contribution_
 
 [Activation Steering for LLM Alignment via a Unified ODE-Based Framework]()  
 
-Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li, Huajie Shao
+Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
 _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
 
@@ -82,7 +82,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
 [Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf)
 
-**Haosen Sun**, Lujun Li, Peijie Dong, Zimian Wei, Shitong Shao
+**Haosen Sun<sup>\*</sup>**, Lujun Li<sup>†</sup>, Peijie Dong, Zimian Wei, Shitong Shao
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
@@ -98,7 +98,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 [Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf)
 
-Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Qifeng Liu, Wei Xue, Yike Guo
+Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wei Xue, Qifeng Liu<sup>†</sup>, Yike Guo<sup>†</sup>
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
