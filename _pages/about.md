@@ -82,7 +82,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
 [Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf)
 
-**Haosen Sun<sup>\*</sup>**, Lujun Li<sup>†</sup>, Peijie Dong, Zimian Wei, Shitong Shao
+**Haosen Sun**, Lujun Li<sup>†</sup>, Peijie Dong, Zimian Wei, Shitong Shao
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
