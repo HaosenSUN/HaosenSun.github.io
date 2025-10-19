@@ -64,7 +64,7 @@ _International Conference on Learning Representations (ICLR)_, 2026 **(Under Rev
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Re-thinking Temporal Search for Long-Form Video Understanding](https://arxiv.org/pdf/2504.02259)
+[T*: Re-thinking Temporal Search for Long-Form Video Understanding](https://arxiv.org/pdf/2504.02259)
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei, Jiajun Wu, Manling Li
 
