@@ -44,7 +44,8 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2023.11*: Received a [Silver medal](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime). [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 # 📝 Publications 
-_\* indicates equal contribution_
+_<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/BODES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
