@@ -99,7 +99,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 [Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf)
 
-Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wei Xue, Qifeng Liu<sup>†</sup>, Yike Guo<sup>†</sup>
+Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Liu<sup>†</sup>, Yike Guo<sup>†</sup>
 
 _European Conference on Computer Vision (ECCV)_, 2024
 
