@@ -71,7 +71,7 @@ Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chan
 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
-<strong style="color:#8B3A3A;">Oral</strong> @ [_ICCV 2025 Workshop on Long Multi-Scene Video Foundations_](https://ramoscsv.github.io/longvid_foundations/)
+<strong style="color:#B85C5C;">Oral</strong> @ [_ICCV 2025 Workshop on Long Multi-Scene Video Foundations_](https://ramoscsv.github.io/longvid_foundations/)
 
 [**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
