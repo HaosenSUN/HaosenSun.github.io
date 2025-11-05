@@ -46,7 +46,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/BODES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Activation Steering for LLM Alignment via a Unified ODE-Based Framework]()  
@@ -55,7 +55,7 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 
 _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
 
-**[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+[**[Project Page]**](https://odesteer.github.io/) **[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 - <font size=2>We propose <strong>BODES</strong> (Barrier function-guided ODE Steering), a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering using control barrier functions.</font>  
 - <font size=2><strong>BODES</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+7%), RealToxicityPrompts (+2%), and UltraFeedback (+2%).</font>  
 
