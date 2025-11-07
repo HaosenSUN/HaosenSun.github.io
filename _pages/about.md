@@ -49,15 +49,15 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Activation Steering for LLM Alignment via a Unified ODE-Based Framework]()  
+[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment]()  
 
 Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
 _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
 
 [**[Project Page]**](https://odesteer.github.io/) **[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
-- <font size=2>We propose <strong>BODES</strong> (Barrier function-guided ODE Steering), a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering using control barrier functions.</font>  
-- <font size=2><strong>BODES</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+7%), RealToxicityPrompts (+2%), and UltraFeedback (+2%).</font>  
+- <font size=2>We propose <strong>ODESteer</strong>, a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering guided by control barrier functions.</font>  
+- <font size=2><strong>ODESteer</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+5.7%), RealToxicityPrompts (+2.4%), and UltraFeedback (+2.5%).</font>  
 
 </div>
 </div>
