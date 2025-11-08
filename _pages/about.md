@@ -34,7 +34,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2025.09*: Will release our new work on _arXiv_, introducing a unified _ODE-based_ framework for activation steering in LLM alignment.
+- *2025.09*: New work coming to _arXiv_: a unified _ODE-based_ framework for activation steering in LLM alignment.
 - *2025.02*: One paper accepted by **CVPR 2024**!
 - *2024.07*: Will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research intern.
 - *2024.07*: Two papers accepted by **ECCV 2024**!
@@ -46,7 +46,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment]()  
