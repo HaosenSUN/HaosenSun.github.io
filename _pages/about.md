@@ -53,7 +53,7 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
 
 Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
-_International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)**  
+<!-- _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)** -->
 
 [**[Project Page]**](https://odesteer.github.io/) **[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 - <font size=2>We propose <strong>ODESteer</strong>, a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering guided by control barrier functions.</font>  
