@@ -44,7 +44,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2023.11*: Received a [Silver medal](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime). [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 # 📝 Publications 
-_<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor._
+_<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,6 +60,29 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 - <font size=2><strong>ODESteer</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+5.7%), RealToxicityPrompts (+2.4%), and UltraFeedback (+2.5%).</font>  
 
 </div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">AAAI 2026</div>
+<img src='images/flow.png' alt="flow-distill" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Flow-Based Knowledge Transfer for Efficient Large Model Distillation](https://aaai.org/conference/aaai/aaai-26/)
+
+Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Rui Li, Gaochao Xu, Yiwei Chen<sup>†</sup>
+
+_Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
+
+[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- <font size=2>FlowDistill enables **invertible, lossless** knowledge transfer using Continuous Normalizing Flows.</font>
+- <font size=2>Outperforms diffusion-based distillation (**+2.1%**) with **3.5× faster** inference across tasks.</font>
+
+</div>
+</div>
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
