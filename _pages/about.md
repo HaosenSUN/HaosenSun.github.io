@@ -67,6 +67,29 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">AAAI 2026</div>
+<img src='images/flow.png' alt="flow-distill" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Flow-Based Knowledge Transfer for Efficient Large Model Distillation](https://aaai.org/conference/aaai/aaai-26/)
+
+Xinye Yang<sup>*</sup>, Junhao Wang<sup>*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Rui Li, Gaochao Xu, Yiwei Chen<sup>†</sup>
+
+_Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
+
+[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]**
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- <font size=2>FlowDistill enables **invertible, lossless** knowledge transfer using Continuous Normalizing Flows.</font>
+- <font size=2>Outperforms diffusion-based distillation (**+2.1%**) with **3.5× faster** inference across tasks.</font>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
