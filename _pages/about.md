@@ -67,7 +67,6 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 </div>
 </div>
 
-
 <!-- FlowDistill -->
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -84,12 +83,15 @@ Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**,
 
 _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
-[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]**
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - <font size=2>Enables <strong>invertible, lossless</strong> knowledge transfer via Continuous Normalizing Flows.</font>
 - <font size=2><strong>+2.1%</strong> accuracy with <strong>3.5× faster</strong> inference vs diffusion-based KD.</font>
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
