@@ -46,20 +46,29 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ODESteer.png' alt="sym" width="100%"></div></div>
+<!-- ODESteer -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Under Review</div>
+<img src='images/ODESteer.png' alt="sym" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment]()  
+[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment]()
 
 Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
-<!-- _International Conference on Learning Representations (ICLR)_, 2026 **(Under Review)** -->
-
-[**[Project Page]**](https://odesteer.github.io/) **[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
-- <font size=2>We propose <strong>ODESteer</strong>, a unified <em>ODE-based</em> framework for <em>multi-step and adaptive</em> activation steering guided by control barrier functions.</font>  
-- <font size=2><strong>ODESteer</strong> bridges theoretical and empirical advances in LLM alignment, achieving consistent gains on TruthfulQA (+5.7%), RealToxicityPrompts (+2.4%), and UltraFeedback (+2.5%).</font>  
+[**[Project Page]**](https://odesteer.github.io/) **[Paper]** **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- <font size=2>A unified <strong>ODE-based</strong> framework for <strong>multi-step</strong> and <strong>adaptive</strong> activation steering guided by barrier functions.</font>
+- <font size=2>Consistent gains on TruthfulQA (+5.7%), RealToxicityPrompts (+2.4%), UltraFeedback (+2.5%).</font>
 
 </div>
+</div>
+
+
+<!-- FlowDistill -->
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
@@ -76,13 +85,10 @@ Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**,
 _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
 [**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- <font size=2>FlowDistill enables **invertible, lossless** knowledge transfer using Continuous Normalizing Flows.</font>
-- <font size=2>Outperforms diffusion-based distillation (**+2.1%**) with **3.5× faster** inference across tasks.</font>
+- <font size=2>Enables <strong>invertible, lossless</strong> knowledge transfer via Continuous Normalizing Flows.</font>
+- <font size=2><strong>+2.1%</strong> accuracy with <strong>3.5× faster</strong> inference vs diffusion-based KD.</font>
 
 </div>
-</div>
-
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/methodv10.png' alt="sym" width="100%"></div></div>
