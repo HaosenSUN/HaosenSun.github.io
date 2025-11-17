@@ -78,15 +78,15 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 
 [Flow-Based Knowledge Transfer for Efficient Large Model Distillation](https://aaai.org/conference/aaai/aaai-26/)
 
-Xinye Yang<sup>*</sup>, Junhao Wang<sup>*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Rui Li, Gaochao Xu, Yiwei Chen<sup>†</sup>
+Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Rui Li, Gaochao Xu, Yiwei Chen<sup>†</sup>
 
 _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
 [**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]**
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- <font size=2>FlowDistill enables **invertible, lossless** knowledge transfer using Continuous Normalizing Flows.</font>
-- <font size=2>Outperforms diffusion-based distillation (**+2.1%**) with **3.5× faster** inference across tasks.</font>
+- <font size=2>FlowDistill enables <strong>invertible, lossless</strong> knowledge transfer using Continuous Normalizing Flows.</font>
+- <font size=2>Outperforms diffusion-based distillation (+2.1%) with <strong>3.5× faster</strong> inference across tasks.</font>
 
 </div>
 </div>
