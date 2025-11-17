@@ -85,8 +85,9 @@ _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 [**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]**
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- <font size=2>FlowDistill enables <strong>invertible, lossless</strong> knowledge transfer using Continuous Normalizing Flows.</font>
-- <font size=2>Outperforms diffusion-based distillation (+2.1%) with <strong>3.5× faster</strong> inference across tasks.</font>
+- <font size=2>FlowDistill leverages <strong>invertible normalizing flows</strong> to achieve <strong>lossless</strong>  teacher-to-student knowledge transfer.</font>
+- <font size=2>It outperforms diffusion-based distillation (+2.1%) while cutting inference <strong>3.5×</strong>, advancing SOTA across tasks.</font>
+
 
 </div>
 </div>
