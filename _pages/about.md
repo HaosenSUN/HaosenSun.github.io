@@ -71,7 +71,7 @@ Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang
 <div class='paper-box-image'>
 <div>
 <div class="badge">AAAI 2026</div>
-<img src='images/flow.png' alt="flow-distill" width="100%">
+<img src='images/Flow.png' alt="flow-distill" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
