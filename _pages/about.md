@@ -98,7 +98,7 @@ _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
 [T*: Re-thinking Temporal Search for Long-Form Video Understanding](https://arxiv.org/pdf/2504.02259)
 
-Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Li Fei-Fei, Jiajun Wu, Manling Li
+Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
 _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
 
