@@ -86,8 +86,8 @@ Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran 
 _Preprint_, 2026 (under review)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>Formulates progress estimation as a <strong>long-horizon reasoning</strong> problem, introducing <strong>PROGRESS-BENCH</strong> and <strong>PROGRESSLM-45K</strong>.</font>
-- <font size=2>Identifies sensitivity to <strong>modality, viewpoint</strong>, and <strong>unanswerable cases</strong>, and shows that robust progress reasoning requires <strong>explicitly trained two-stage models (ProgressLM-3B)</strong>.</font>
+- <font size=2><strong>PROGRESS-BENCH</strong>: a benchmark for progress reasoning in VLMs with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
+- <font size=2>Shows that progress reasoning is <strong>unstable in current VLMs</strong>, and becomes robust only with <strong>explicitly trained two-stage models</strong> (ProgressLM-3B).</font>
 
 </div>
 </div>
