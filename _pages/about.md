@@ -73,6 +73,28 @@ _International Conference on Learning Representations (ICLR)_, 2026 (under revie
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">Under Review</div>
+<img src='images/PGLM.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[ProgressLM: Towards Progress Reasoning in Vision-Language Models](https://arxiv.org/pdf/2601.15224)
+
+Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
+
+_Preprint_, 2026 (under review)
+
+[**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- <font size=2>Formulates progress estimation as a <strong>long-horizon reasoning</strong> problem, introducing <strong>PROGRESS-BENCH</strong> and <strong>PROGRESSLM-45K</strong>.</font>
+- <font size=2>Identifies sensitivity to <strong>modality, viewpoint</strong>, and <strong>unanswerable cases</strong>, and shows that robust progress reasoning requires <strong>explicitly trained two-stage models (ProgressLM-3B)</strong>.</font>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">AAAI 2026</div>
 <img src='images/Flow.png' alt="sym" width="100%">
 </div>
