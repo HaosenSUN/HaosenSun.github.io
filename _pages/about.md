@@ -88,7 +88,7 @@ _Preprint_, 2026 (under review)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><strong>PROGRESS-BENCH</strong>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
-- <font size=2>Shows that progress reasoning is <strong>unstable</strong> in current VLMs, and becomes more robust with <strong>explicitly trained coarse-to-fine models</strong> (<a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">ProgressLM-3B</a>).</font>
+- <font size=2>Shows that progress reasoning is <strong>unstable</strong> in current VLMs, and becomes more robust with explicitly trained <strong>coarse-to-fine</strong> models (<a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">ProgressLM-3B</a>).</font>
 
 </div>
 </div>
