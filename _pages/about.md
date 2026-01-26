@@ -44,13 +44,14 @@ I have published more than 100 papers at the top international AI conferences wi
 
 <details>
 <summary><strong>Show more</strong></summary>
-  
+
 - *2024.06*: Awarded _"Kaggle Competitions Expert"_.
-- *2024.06*: Honored the Dean List Award in _Spring 2023-24_.
+- *2024.06*: Honored the Dean List Award in _Spring 2023–24_.
 - *2024.06*: Received a [Silver medal](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) 🥈 in [_"Image Matching Challenge 2024 - Hexathlon"_](https://www.kaggle.com/competitions/image-matching-challenge-2024) (CVPR’24 Workshop). [Our solution](https://github.com/HaosenSUN/IMC-2024) was released.
 - *2023.11*: Received a [Silver medal](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) 🥈 in [_"Google - Fast or Slow? Predict AI Model Runtime"_](https://www.kaggle.com/competitions/predict-ai-model-runtime). [Our solution](https://github.com/HaosenSUN/Google-Competition) was released.
 
 </details>
+
 
 # 📝 Publications 
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
