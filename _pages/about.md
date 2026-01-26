@@ -98,7 +98,7 @@ _International Conference on Learning Representations (ICLR)_, 2026
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Under Review</div>
+<div class="badge">Preprint</div>
 <img src='images/PGLM.png' alt="sym" width="100%">
 </div>
 </div>
