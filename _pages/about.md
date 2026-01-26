@@ -34,6 +34,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.01*: One paper accepted by **ICLR 2026**!
 - *2026.01*: New work coming to _arXiv_: [ProgressLM: towards progress reasoning in Vision-Language Models](https://arxiv.org/pdf/2601.15224). 
 - *2025.11*: One paper accepted by **AAAI 2026**!
 - *2025.09*: New work coming to _arXiv_: a unified _ODE-based_ framework for activation steering in LLM alignment.
