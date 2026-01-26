@@ -39,7 +39,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2025.11*: One paper accepted by **AAAI 2026**!
 - *2025.09*: New work coming to _arXiv_: a unified _ODE-based_ framework for activation steering in LLM alignment.
 - *2025.02*: One paper accepted by **CVPR 2024**!
-
 <div id="news-2024" style="display: none; margin-left: 0;">
 <ul style="margin-top: 10px;">
 <li><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
