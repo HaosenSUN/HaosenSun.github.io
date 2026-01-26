@@ -34,23 +34,23 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
-- *2026.01*: One paper accepted by **ICLR 2026**!
-- *2026.01*: New work coming to _arXiv_: [ProgressLM: towards progress reasoning in Vision-Language Models](https://arxiv.org/pdf/2601.15224). 
-- *2025.11*: One paper accepted by **AAAI 2026**!
-- *2025.09*: New work coming to _arXiv_: a unified _ODE-based_ framework for activation steering in LLM alignment.
-- *2025.02*: One paper accepted by **CVPR 2024**!
-<div id="news-2024" style="display: none; margin-left: 0;">
-<ul style="margin-top: 10px;">
-<li><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
-<li><em>2024.07</em>: Two papers accepted by <strong>ECCV 2024</strong>!</li>
-<li><em>2024.06</em>: Awarded <em>"Kaggle Competitions Expert"</em>.</li>
-<li><em>2024.06</em>: Honored the Dean List Award in <em>Spring 2023-24</em>.</li>
-<li><em>2024.06</em>: Received a <a href="https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/image-matching-challenge-2024"><em>"Image Matching Challenge 2024 - Hexathlon"</em></a> (CVPR'24 Workshop). <a href="https://github.com/HaosenSUN/IMC-2024">Our solution</a> was released.</li>
-<li><em>2023.11</em>: Received a <a href="https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime"><em>"Google - Fast or Slow? Predict AI Model Runtime"</em></a>. <a href="https://github.com/HaosenSUN/Google-Competition">Our solution</a> was released.</li>
-</ul>
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
+<li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
+<li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
+<li style="margin-bottom: 4px;"><em>2025.11</em>: One paper accepted by <strong>AAAI 2026</strong>!</li>
+<li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: a unified <em>ODE-based</em> framework for activation steering in LLM alignment.</li>
+<li style="margin-bottom: 4px;"><em>2025.02</em>: One paper accepted by <strong>CVPR 2024</strong>!</li>
+<div id="news-2024" style="display: none;">
+<li style="margin-bottom: 4px;"><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
+<li style="margin-bottom: 4px;"><em>2024.07</em>: Two papers accepted by <strong>ECCV 2024</strong>!</li>
+<li style="margin-bottom: 4px;"><em>2024.06</em>: Awarded <em>"Kaggle Competitions Expert"</em>.</li>
+<li style="margin-bottom: 4px;"><em>2024.06</em>: Honored the Dean List Award in <em>Spring 2023-24</em>.</li>
+<li style="margin-bottom: 4px;"><em>2024.06</em>: Received a <a href="https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/image-matching-challenge-2024"><em>"Image Matching Challenge 2024 - Hexathlon"</em></a> (CVPR'24 Workshop). <a href="https://github.com/HaosenSUN/IMC-2024">Our solution</a> was released.</li>
+<li style="margin-bottom: 4px;"><em>2023.11</em>: Received a <a href="https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime"><em>"Google - Fast or Slow? Predict AI Model Runtime"</em></a>. <a href="https://github.com/HaosenSUN/Google-Competition">Our solution</a> was released.</li>
 </div>
+</ul>
 
-<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #7c4dff; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 8px;">
+<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #9370DB; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 8px;">
   Show more
 </button>
 
