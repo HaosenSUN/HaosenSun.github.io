@@ -84,7 +84,7 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. 
 
 [ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment]()
 
-**Haosen Sun<sup>\*</sup>**, Hongjue Zhao<sup>\*</sup>, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
+Hongjue Zhao<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
 _International Conference on Learning Representations (ICLR)_, 2026
 
