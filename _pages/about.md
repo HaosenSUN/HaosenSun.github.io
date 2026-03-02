@@ -108,7 +108,7 @@ _International Conference on Learning Representations (ICLR)_, 2026
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-_Preprint_, 2026 (under review)
+_Preprint_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
@@ -149,9 +149,7 @@ _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
-_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025
-
-<strong style="color:#B85C5C;">Oral</strong> @ [_ICCV 2025 LongVid-Foundations_](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#B85C5C;">Featured by Stanford AI Blog</strong>
+_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025; <strong style="color:#B85C5C;">Oral</strong> @ [_ICCV 2025 LongVid-Foundations_](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#B85C5C;">Featured by Stanford AI Blog</strong>
 
 [**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
