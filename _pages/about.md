@@ -229,8 +229,8 @@ _**Knowledge-Based Systems**_
 
 # 🎖 Honors and Awards
 - The Dean List Award
-- [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024), ranked 28<sup>th</sup>/ 929
-- [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime), ranked 40<sup>th</sup>/ 616
+- [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024)
+- [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime)
 - **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
 - Kerry Holdings Limited Scholarship (HKUST Admissions Scholarship, HK$280,000)	
 - [**Bronze Medal**](https://drive.google.com/file/d/1SmSzMAw6phx0I3Cz-vS50eZ2SGy5N5YH/view?usp=sharing) and [**the First Prize**](https://drive.google.com/file/d/1SmSzMAw6phx0I3Cz-vS50eZ2SGy5N5YH/view?usp=sharing) in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%
