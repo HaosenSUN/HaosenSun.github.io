@@ -27,12 +27,11 @@ I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medi
 
 My research focuses on <span style="color:#9370DB;">**Foundation Models**</span>, <span style="color:#9370DB;">**Multimodal Generative Models**</span>, <span style="color:#9370DB;">**3D Vision**</span>, and <span style="color:#9370DB;">**Embodied Intelligence**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing to **human-centered** and **physically grounded** general AI.
 
-I am seeking <span style="color:#9370DB;"> <strong><em>Ph.D.</em></strong></span> opportunities starting in <span style="color:#9370DB;"> <strong><em>Fall 2026</em></strong></span>. If our research interests overlap, I would love to connect!
-
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
+<!--
 # 🔥 News
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
@@ -68,6 +67,7 @@ function toggleNews2024() {
   }
 }
 </script>
+-->
 
 # 📝 Publications
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
