@@ -388,7 +388,7 @@ function showAllPubs() {
 
 
 # 💬 Academic Services
-- *Conference Reviewer:* ICLR, ACM Multimedia
+- *Conference Reviewer:* ICLR, NeurIPS, ACM Multimedia
 
 
 # 💻 Internships
