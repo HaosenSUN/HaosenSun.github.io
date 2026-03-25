@@ -25,7 +25,7 @@ I am a Master's student in [Computer Science](https://www.mccormick.northwestern
 I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 -->
 
-My research focuses on <span style="color:#9370DB;">**Foundation Models**</span>, <span style="color:#9370DB;">**Multimodal Generative Models**</span>, <span style="color:#9370DB;">**3D Vision**</span>, and <span style="color:#9370DB;">**Embodied Intelligence**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing to **human-centered** and **physically grounded** general AI.
+My research focuses on <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Generative Models**</span>, <span style="color:#011F5B;">**3D Vision**</span>, and <span style="color:#011F5B;">**Embodied Intelligence**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing to **human-centered** and **physically grounded** general AI.
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -49,7 +49,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </ul>
 
-<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #9370DB; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 8px;">
+<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #011F5B; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 8px;">
   Show more
 </button>
 
@@ -73,7 +73,7 @@ function toggleNews2024() {
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
 
 <div style="margin-bottom: 8px;">
-  <button id="show-selected-btn" onclick="showSelectedPubs()" style="background-color: #9370DB; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-right: 8px;">
+  <button id="show-selected-btn" onclick="showSelectedPubs()" style="background-color: #011F5B; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-right: 8px;">
     Show Selected
   </button>
   <button id="show-all-btn" onclick="showAllPubs()" style="background-color: #d3d3d3; color: #333; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px;">
@@ -355,7 +355,7 @@ function showSelectedPubs() {
   document.getElementById("all-publications").style.display = "none";
 
   // Update button styles
-  document.getElementById("show-selected-btn").style.backgroundColor = "#9370DB";
+  document.getElementById("show-selected-btn").style.backgroundColor = "#011F5B";
   document.getElementById("show-selected-btn").style.color = "white";
   document.getElementById("show-all-btn").style.backgroundColor = "#d3d3d3";
   document.getElementById("show-all-btn").style.color = "#333";
@@ -366,7 +366,7 @@ function showAllPubs() {
   document.getElementById("all-publications").style.display = "block";
 
   // Update button styles
-  document.getElementById("show-all-btn").style.backgroundColor = "#9370DB";
+  document.getElementById("show-all-btn").style.backgroundColor = "#011F5B";
   document.getElementById("show-all-btn").style.color = "white";
   document.getElementById("show-selected-btn").style.backgroundColor = "#d3d3d3";
   document.getElementById("show-selected-btn").style.color = "#333";
