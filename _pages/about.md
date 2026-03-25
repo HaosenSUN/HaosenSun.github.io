@@ -31,15 +31,14 @@ My research focuses on <span style="color:#011F5B;">**Foundation Models**</span>
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-<!--
 # 🔥 News
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
+<div id="news-2024" style="display: none;">
 <li style="margin-bottom: 4px;"><em>2025.11</em>: One paper accepted by <strong>AAAI 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: a unified <em>ODE-based</em> framework for activation steering in LLM alignment.</li>
 <li style="margin-bottom: 4px;"><em>2025.02</em>: One paper accepted by <strong>CVPR 2025</strong>!</li>
-<div id="news-2024" style="display: none;">
 <li style="margin-bottom: 4px;"><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
 <li style="margin-bottom: 4px;"><em>2024.07</em>: Two papers accepted by <strong>ECCV 2024</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2024.06</em>: Awarded <em>"Kaggle Competitions Expert"</em>.</li>
@@ -67,7 +66,6 @@ function toggleNews2024() {
   }
 }
 </script>
--->
 
 # 📝 Publications
 _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. <sup>‡</sup>Project leader._
