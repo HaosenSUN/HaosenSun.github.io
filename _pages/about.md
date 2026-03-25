@@ -37,7 +37,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
 <div id="news-2024" style="display: none;">
 <li style="margin-bottom: 4px;"><em>2025.11</em>: One paper accepted by <strong>AAAI 2026</strong>!</li>
-<li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2602.17560">a unified <em>ODE-based</em> framework for activation steering in LLM alignment</a>.</li>
+<li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2602.17560">ODESteer: A Unified ODE-based Steering Framework for LLM Alignment</a>.</li>
 <li style="margin-bottom: 4px;"><em>2025.02</em>: One paper accepted by <strong>CVPR 2025</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
 <li style="margin-bottom: 4px;"><em>2024.07</em>: Two papers accepted by <strong>ECCV 2024</strong>!</li>
