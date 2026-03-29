@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haosen Sun"
-description              : "Research Intern @ Shanghai AI Laboratory"
+description              : 
 repository               : "Haosen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haosen Sun"
   avatar           : "images/Haosen_New.png"
-  bio              : "MLL-Group @ Northwestern University"
-  location         : "Evanston, USA"
+  bio              : "GRASP Lab & IDEAS Center @ University of Pennsylvania"
+  location         : "Philadelphia, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lfQSWAgAAAAJ&hl=zh-CN"
-  email            : "haosensun@u.northwestern.edu"
+  email            : "hssun@seas.upenn.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
