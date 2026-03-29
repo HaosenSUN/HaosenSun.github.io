@@ -29,7 +29,7 @@ I am an incoming Ph.D. student in [Computer and Information Science](https://www
 I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 -->
 
-My research focuses on <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Generative Models**</span>, <span style="color:#011F5B;">**3D Vision**</span>, and <span style="color:#011F5B;">**Embodied Intelligence**</span>, with an emphasis on **controllability**, **efficiency**, and **interpretability**.
+My research interests lie in <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Generative Models**</span>, <span style="color:#011F5B;">**3D Vision**</span>, and <span style="color:#011F5B;">**Embodied Intelligence**</span>, with an emphasis on **controllability**, **efficiency**, and **interpretability**.
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
