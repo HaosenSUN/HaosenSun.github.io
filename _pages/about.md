@@ -377,7 +377,7 @@ function showAllPubs() {
 - [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime)
 - **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
 - Kerry Holdings Limited Scholarship (HKUST Admissions Scholarship, HK$280,000)	
-- [**Bronze Medal**](https://drive.google.com/file/d/1SmSzMAw6phx0I3Cz-vS50eZ2SGy5N5YH/view?usp=sharing) and [**the First Prize**](https://drive.google.com/file/d/1SmSzMAw6phx0I3Cz-vS50eZ2SGy5N5YH/view?usp=sharing) in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%
+- [**Bronze Medal**](https://drive.google.com/file/d/1SmSzMAw6phx0I3Cz-vS50eZ2SGy5N5YH/view?usp=sharing) and **the First Prize** in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%
 
 
 # 📖 Educations
