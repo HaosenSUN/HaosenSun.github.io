@@ -19,14 +19,17 @@ redirect_from:
 
 ## Welcome! I'm **_Haosen_**.
 
+<!--
 I am a Master's student in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.mccormick.northwestern.edu/), advised by [Prof. Manling Li](https://limanling.github.io/) at the [MLL Group](https://mll-lab-nu.github.io/) in collaboration with the [Stanford Vision and Learning Lab](https://svl.stanford.edu/). Previously, I was a research intern at the [Shanghai AI Lab](https://www.shlab.org.cn/). I received my Bachelor's degree in [Data Science and Technology](https://dsct.hkust.edu.hk/) from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I was advised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). 
+-->
+
+I am an incoming Ph.D. student in [Computer and Information Science](https://www.cis.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), affiliated with the [GRASP Lab](https://www.grasp.upenn.edu/) and [IDEAS Center](https://ideas.seas.upenn.edu/), advised by [Prof. René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/). Previously, I was a Master's student at [Northwestern University](https://www.mccormick.northwestern.edu/), advised by [Prof. Manling Li](https://limanling.github.io/) at the [MLL Group](https://mll-lab-nu.github.io/) in collaboration with the [Stanford Vision and Learning Lab](https://svl.stanford.edu/), and a research intern at the [Shanghai AI Lab](https://www.shlab.org.cn/). I received my B.Sc. in [Data Science and Technology](https://dsct.hkust.edu.hk/) from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), advised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/bio.html) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/). 
 
 <!--
 I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 -->
 
-My research focuses on <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Generative Models**</span>, <span style="color:#011F5B;">**3D Vision**</span>, and <span style="color:#011F5B;">**Embodied Intelligence**</span>, with an emphasis on **safety**, **efficiency**, and **interpretability**. I aim to enable machines to understand both structured data (text, images, video) and unstructured 3D data, contributing to **human-centered** and **physically grounded** general AI.
-
+My research focuses on <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Generative Models**</span>, <span style="color:#011F5B;">**3D Vision**</span>, and <span style="color:#011F5B;">**Embodied Intelligence**</span>, with an emphasis on **controllability**, **efficiency**, and **interpretability**.
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
