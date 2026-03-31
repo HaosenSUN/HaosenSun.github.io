@@ -254,7 +254,7 @@ Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**,
 
 _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
-[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/) **[Code]**
+[**[Paper]**](https://aaai.org/conference/aaai/aaai-26/)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - <font size=2>FlowDistill leverages <strong>invertible normalizing flows</strong> to achieve <strong>lossless</strong>  teacher-to-student knowledge transfer.</font>
