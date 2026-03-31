@@ -384,8 +384,9 @@ function showAllPubs() {
 
 
 # 📖 Educations
+- *2026.08 - 2030.06 (expected)*, **_Ph.D._** in **Computer and Information Science**, University of Pennsylvania, _Philadelphia, PA_
 - *2024.09 - 2026.06*, **_M.S._** in **Computer Science**, Northwestern University, _Evanston, IL_
-- *2020.09 - 2024.07*, **_BSc_** in **Data Science and Technology**, Hong Kong University of Science and Technology (HKUST), _Hong Kong_
+- *2020.09 - 2024.06*, **_BSc_** in **Data Science and Technology**, Hong Kong University of Science and Technology (HKUST), _Hong Kong_
 
 
 # 💬 Academic Services
