@@ -250,7 +250,7 @@ _Preprint_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.co
 
 [Flow-Based Knowledge Transfer for Efficient Large Model Distillation](https://aaai.org/conference/aaai/aaai-26/)
 
-Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Rui Li, Gaochao Xu, Yiwei Chen<sup>†</sup>
+Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Gaochao Xu, Yiwei Chen<sup>†</sup>
 
 _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
