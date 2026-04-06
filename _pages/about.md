@@ -37,6 +37,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
+<li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026</strong>(Main)!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
 <div id="news-2024" style="display: none;">
@@ -110,7 +111,7 @@ _International Conference on Learning Representations (ICLR)_, 2026
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Preprint</div>
+<div class="badge">ACL 2026</div>
 <img src='images/PGLM.png' alt="sym" width="100%">
 </div>
 </div>
@@ -120,7 +121,7 @@ _International Conference on Learning Representations (ICLR)_, 2026
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-_Preprint_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
+_Annual Meeting of the Association for Computational Linguistics (ACL)_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
