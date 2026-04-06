@@ -111,7 +111,7 @@ _International Conference on Learning Representations (ICLR)_, 2026
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">ACL 2026</div>
+<div class="badge">ACL 2026 (Main)</div>
 <img src='images/PGLM.png' alt="sym" width="100%">
 </div>
 </div>
