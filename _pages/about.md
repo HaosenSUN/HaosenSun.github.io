@@ -37,7 +37,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
-<li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026</strong>(Main)!</li>
+<li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026</strong> (Main)!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
 <div id="news-2024" style="display: none;">
