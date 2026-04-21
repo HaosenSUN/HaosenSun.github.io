@@ -386,7 +386,7 @@ function showAllPubs() {
 
 
 # 📖 Educations
-- *2026.08 - 2030.06 (expected)*, **_Ph.D._** in **Computer and Information Science**, <img src='../images/upenn_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>University of Pennsylvania, _Philadelphia, PA_
+- *2026.08 - 2030.06*, **_Ph.D._** in **Computer and Information Science**, <img src='../images/upenn_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>University of Pennsylvania, _Philadelphia, PA_
 - *2024.09 - 2026.06*, **_M.S._** in **Computer Science**, <img src='../images/northwestern_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>Northwestern University, _Evanston, IL_
 - *2020.09 - 2024.06*, **_BSc_** in **Data Science and Technology**, <span style='display:inline-block; width:15px; text-align:center; vertical-align:middle; margin:0 3px 0 0;'><img src='../images/hkust_logo.png' style='height:20px; width:auto;'></span>Hong Kong University of Science and Technology (HKUST), _Hong Kong_
 
