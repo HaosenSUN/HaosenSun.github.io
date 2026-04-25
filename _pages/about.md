@@ -377,7 +377,7 @@ function showAllPubs() {
 </script>
 
 # 🎖 Honors and Awards
-- The Dean List Award
+- HKUST Dean’s List Awards
 - [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024)
 - [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime)
 - **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
@@ -396,12 +396,10 @@ function showAllPubs() {
 
 
 # 💻 Internships
-- *07/2024 – 09/2024*, Shanghai Artificial Intelligence Laboratory, _China_.
-
-  **_Research Intern_**, working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).
+- *07/2024 – 09/2024*, **_Research Intern_**, Shanghai Artificial Intelligence Laboratory, _China_.
+  <!--working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).-->
   
-- *10/2023 – 05/2024*, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
-
-  **_Research Intern_**, working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).
+- *10/2023 – 05/2024*, **_Research Intern_**, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
+   <!--working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).-->
 
 
