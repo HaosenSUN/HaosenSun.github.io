@@ -171,6 +171,11 @@ h1:before, .anchor:before {
   color: #494e52;
 }
 
+/* Paper description bullets — muted like tl-sub */
+.paper-box-text ul li {
+  color: #777;
+}
+
 /* Universal link hover + click feedback */
 .page__content a,
 .author__urls a,
