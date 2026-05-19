@@ -152,6 +152,33 @@ h1:before, .anchor:before {
     box-shadow: 0 2px 6px rgba(1, 31, 91, 0.25);
 }
 
+/* Universal link hover + click feedback */
+.page__content a,
+.author__urls a,
+.author__content a {
+  transition: color 0.18s ease, opacity 0.1s ease, text-decoration-color 0.18s ease;
+  text-decoration-color: transparent;
+}
+
+.page__content a:hover,
+.author__content a:hover {
+  color: #022a7a;
+  text-decoration: underline;
+  text-decoration-color: rgba(1, 31, 91, 0.3);
+  text-underline-offset: 2px;
+}
+
+a:active {
+  opacity: 0.55;
+}
+
+/* Chip links press effect */
+.paper-box-text > p > a:active strong,
+.service-tag:active {
+  transform: scale(0.95);
+  transition: transform 0.08s ease;
+}
+
 /* Site buttons */
 .site-btn {
   display: inline-block;

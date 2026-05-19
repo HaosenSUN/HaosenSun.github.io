@@ -401,7 +401,7 @@ function showAllPubs() {
 # 🎓 Education
 <div class="timeline">
   <div class="tl-item">
-    <span class="tl-date">2026.08 – 2030.06</span>
+    <span class="tl-date">2026.08 – 2030.06 (expected)</span>
     <p class="tl-title"><strong><em>Ph.D.</em></strong> in <strong>Computer and Information Science</strong></p>
     <p class="tl-sub"><img src='../images/upenn_logo.png' style='width:15px; height:15px; vertical-align:middle; margin:0 4px 0 0;'>University of Pennsylvania, <em>Philadelphia, PA</em></p>
   </div>
