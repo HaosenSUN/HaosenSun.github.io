@@ -1,3 +1,16 @@
+// Scroll progress bar
+(function () {
+  var bar = document.createElement('div');
+  bar.id = 'scroll-progress';
+  document.body.appendChild(bar);
+
+  window.addEventListener('scroll', function () {
+    var scrolled = window.scrollY;
+    var total = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (total > 0 ? (scrolled / total) * 100 : 0) + '%';
+  }, { passive: true });
+})();
+
 document.addEventListener('DOMContentLoaded', function () {
   var content = document.querySelector('.page__content');
   if (!content) return;
@@ -13,6 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var parts = [
       { text: "Welcome!",      bold: true,  italic: false },
+      { text: null, pause: 420 },
       { text: " I'm ",        bold: false, italic: false },
       { text: "Haosen",       bold: false, italic: true  },
       { text: ".",            bold: false, italic: false }
@@ -21,6 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Flatten to character tokens with style info
     var tokens = [];
     parts.forEach(function (part) {
+      if (part.pause) { tokens.push({ pause: part.pause }); return; }
       part.text.split('').forEach(function (ch) {
         tokens.push({ ch: ch, bold: part.bold, italic: part.italic });
       });
@@ -45,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return;
       }
       var t = tokens[i++];
+      if (t.pause) { setTimeout(type, t.pause); return; }
       var node;
       if (t.bold && t.italic) {
         node = document.createElement('strong');
@@ -67,6 +83,12 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // --- Scroll reveal ---
+  // Research card is above fold — trigger on load with delay
+  var researchCard = content.querySelector('.research-card');
+  if (researchCard) {
+    setTimeout(function () { researchCard.classList.add('visible'); }, 500);
+  }
+
   var revealEls = content.querySelectorAll('h1, h2:not(:first-of-type), .paper-box, .page__content > p');
   revealEls.forEach(function (el) {
     if (!el.classList.contains('reveal')) el.classList.add('reveal');
