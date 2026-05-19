@@ -152,6 +152,12 @@ h1:before, .anchor:before {
     box-shadow: 0 2px 6px rgba(1, 31, 91, 0.25);
 }
 
+/* Bullet point text slightly muted */
+.page__content ul li,
+.page__content ol li {
+  color: #6b7280;
+}
+
 /* Universal link hover + click feedback */
 .page__content a,
 .author__urls a,
