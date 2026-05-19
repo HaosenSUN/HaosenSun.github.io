@@ -47,12 +47,25 @@ body {
 
 /* Hamburger menu button */
 .greedy-nav button {
-  background-color: #011F5B;
-  border-radius: 4px;
+  background: rgba(1, 31, 91, 0.82);
+  border: 1px solid rgba(1, 31, 91, 0.7);
+  border-radius: 5px;
   padding: 0 0.45rem;
-  height: 28px;
+  height: 26px;
   top: 50%;
   transform: translateY(-50%);
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+}
+
+.greedy-nav button:hover {
+  background: rgba(1, 31, 91, 0.95);
+  box-shadow: 0 3px 10px rgba(1, 31, 91, 0.28);
+  transform: translateY(-50%) translateY(-1px);
+}
+
+.greedy-nav button:active {
+  transform: translateY(-50%) translateY(0);
+  box-shadow: none;
 }
 
 /* Dropdown hidden-links */
