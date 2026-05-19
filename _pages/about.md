@@ -127,7 +127,7 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. 
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong>; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
+<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong><br><em><a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLR 2026 Workshop on World Models</a></em>
 
 [**Project Page**](https://progresslm.github.io/ProgressLM/) [**Paper**](https://arxiv.org/pdf/2601.15224) [**Code**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
@@ -143,7 +143,7 @@ Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran 
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
-<strong style="color:#011F5B;">CVPR 2025</strong>; _<strong style="color:#990000;">Oral</strong> @ [ICCV 2025 LongVid-Foundations](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></strong>_
+<strong style="color:#011F5B;">CVPR 2025</strong><br><em><strong style="color:#990000;">Oral</strong> @ <a href="https://ramoscsv.github.io/longvid_foundations/">ICCV 2025 Workshop on LongVid-Foundations</a></em><br><em style="color:#990000;"><strong>Featured by</strong> <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></em>
 
 [**Project Page**](https://longvideohaystack.github.io/) [**Paper**](https://arxiv.org/pdf/2504.02259) [**Code**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA: <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
@@ -190,7 +190,7 @@ Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Li
 
 Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang  
 
-**arXiv Preprint**, Dec 2023
+arXiv Preprint 2023
 
 [**Project Page**](https://inpaint4dnerf.github.io/) [**Paper**](https://arxiv.org/abs/2401.00208) [**Code**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general and can be readily extended to 4D dynamic NeRFs.</font>
@@ -238,7 +238,7 @@ Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong>; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
+<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong><br><em><a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLR 2026 Workshop on World Models</a></em>
 
 [**Project Page**](https://progresslm.github.io/ProgressLM/) [**Paper**](https://arxiv.org/pdf/2601.15224) [**Code**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
@@ -279,7 +279,7 @@ Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**,
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
-<strong style="color:#011F5B;">CVPR 2025</strong>; _<strong style="color:#990000;">Oral</strong> @ [ICCV 2025 LongVid-Foundations](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></strong>_
+<strong style="color:#011F5B;">CVPR 2025</strong><br><em><strong style="color:#990000;">Oral</strong> @ <a href="https://ramoscsv.github.io/longvid_foundations/">ICCV 2025 Workshop on LongVid-Foundations</a></em><br><em style="color:#990000;"><strong>Featured by</strong> <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></em>
 
 [**Project Page**](https://longvideohaystack.github.io/) [**Paper**](https://arxiv.org/pdf/2504.02259) [**Code**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA: <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
@@ -326,7 +326,7 @@ Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Li
 
 Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang
 
-**arXiv Preprint**, Dec 2023
+arXiv Preprint 2023
 
 [**Project Page**](https://inpaint4dnerf.github.io/) [**Paper**](https://arxiv.org/abs/2401.00208) [**Code**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general and can be readily extended to 4D dynamic NeRFs.</font>
@@ -341,7 +341,7 @@ Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu
 
 Han Jiang<sup>\*</sup>, Ruoxuan Li<sup>\*</sup>, **Haosen Sun**, Yu-Wing Tai, Chi-Keung Tang
 
-**arXiv Preprint**, May 2023
+arXiv Preprint 2023
 
 [**Paper**](https://arxiv.org/abs/2305.12843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We propose a method to align and merge pre-trained NeRF models of partially overlapping 3D scenes using a generalized registration pipeline, incorporating key point detection, point set registration, and universal pre-trained descriptor networks with a contrastive learning strategy.</font>
