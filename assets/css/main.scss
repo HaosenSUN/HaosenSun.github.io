@@ -176,6 +176,34 @@ h1:before, .anchor:before {
   color: #777;
 }
 
+/* Prettier bullet markers */
+.page__content ul li::marker {
+  color: rgba(1, 31, 91, 0.35);
+  font-size: 0.9em;
+}
+
+/* Paper details toggle */
+.paper-details-toggle {
+  cursor: pointer;
+  font-size: 0.78em;
+  color: rgba(1, 31, 91, 0.45);
+  user-select: none;
+  display: inline-block;
+  margin-top: 0.25em;
+  transition: color 0.2s ease;
+}
+
+.paper-details-toggle:hover {
+  color: rgba(1, 31, 91, 0.85);
+}
+
+.paper-box-text ul {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.35s ease;
+  margin-top: 0.3em;
+}
+
 /* Universal link hover + click feedback */
 .page__content a,
 .author__urls a,

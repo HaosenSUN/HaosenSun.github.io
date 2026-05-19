@@ -83,6 +83,19 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // --- Scroll reveal ---
+  // Foldable paper description bullets
+  document.querySelectorAll('.paper-box-text ul').forEach(function (ul) {
+    var toggle = document.createElement('span');
+    toggle.className = 'paper-details-toggle';
+    toggle.textContent = '▸ Details';
+    toggle.addEventListener('click', function () {
+      var open = ul.style.maxHeight && ul.style.maxHeight !== '0px';
+      ul.style.maxHeight = open ? '0' : ul.scrollHeight + 'px';
+      toggle.textContent = open ? '▸ Details' : '▾ Details';
+    });
+    ul.parentNode.insertBefore(toggle, ul);
+  });
+
   // Research card is above fold — trigger on load with delay
   var researchCard = content.querySelector('.research-card');
   if (researchCard) {
