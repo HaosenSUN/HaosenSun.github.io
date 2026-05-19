@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haosen Sun"
-description              : "GRASP Lab | IDEAS Center"
+description              :
 repository               : "Haosen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haosen Sun"
   avatar           : "images/Haosen_New.png"
-  bio              : "CIS PhD Student @ UPenn"
+  bio              : "<img src='/images/upenn_logo.png' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>CIS PhD Student<br><span style='font-size:0.78em;color:#888;'>GRASP Lab · IDEAS Center</span>"
   location         : "Philadelphia, USA"
   employer         :
   pubmed           : 

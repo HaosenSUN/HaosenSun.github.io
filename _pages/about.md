@@ -29,34 +29,38 @@ I am an incoming Ph.D. student in [Computer and Information Science](https://www
 I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medical Vision-Language Models (VLMs) as part of the UROP program.
 -->
 
-My research interest spans **vision**, **language**, and **robotics**, with a focus on <span style="color:#011F5B;">**Foundation Models**</span>, <span style="color:#011F5B;">**Multimodal Reasoning**</span>, and <span style="color:#011F5B;">**Generative World Modeling**</span>. I aim to build <span style="color:#011F5B;">**efficient**</span>, <span style="color:#011F5B;">**controllable**</span>, and <span style="color:#011F5B;">**interpretable**</span> models that can <em>reason about</em> and <em>interact with</em> the physical world.
+<div style="background:#ffffff; border-left: 4px solid #011F5B; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 0.9em 1.2em; margin: 1em 0;">
+My research interest spans <strong>vision</strong>, <strong>language</strong>, and <strong>robotics</strong>, with a focus on <span style="color:#011F5B;"><strong>Foundation Models</strong></span>, <span style="color:#011F5B;"><strong>Multimodal Reasoning</strong></span>, and <span style="color:#011F5B;"><strong>Generative World Modeling</strong></span>. I aim to build <span style="color:#011F5B;"><strong>efficient</strong></span>, <span style="color:#011F5B;"><strong>controllable</strong></span>, and <span style="color:#011F5B;"><strong>interpretable</strong></span> models that can <em>reason about</em> and <em>interact with</em> the physical world.
+</div>
 
 <!-- 注释掉了
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
+<div style="background:#ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 1em 1.4em;">
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
 <li style="margin-bottom: 4px;"><em>2026.05</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM</a> was selected for an <strong style="color:#990000;">Oral</strong> presentation at <strong>ACL 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026 (Main)</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
-<li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
+<li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: Towards Progress Reasoning in Vision-Language Models</a>.</li>
 <div id="news-2024" style="display: none;">
 <li style="margin-bottom: 4px;"><em>2025.11</em>: One paper accepted by <strong>AAAI 2026</strong>!</li>
-<li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2602.17560">ODESteer: A Unified ODE-based Steering Framework for LLM Alignment</a>.</li>
+<li style="margin-bottom: 4px;"><em>2025.09</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2602.17560">ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment</a>.</li>
 <li style="margin-bottom: 4px;"><em>2025.02</em>: One paper accepted by <strong>CVPR 2025</strong>!</li>
-<li style="margin-bottom: 4px;"><em>2024.07</em>: Will join <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
+<li style="margin-bottom: 4px;"><em>2024.07</em>: Joined <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a> as a research intern.</li>
 <li style="margin-bottom: 4px;"><em>2024.07</em>: Two papers accepted by <strong>ECCV 2024</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2024.06</em>: Awarded <em>"Kaggle Competitions Expert"</em>.</li>
-<li style="margin-bottom: 4px;"><em>2024.06</em>: Honored the Dean List Award in <em>Spring 2023-24</em>.</li>
+<li style="margin-bottom: 4px;"><em>2024.06</em>: Received the Dean's List Award in <em>Spring 2023-24</em>.</li>
 <li style="margin-bottom: 4px;"><em>2024.06</em>: Received a <a href="https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/image-matching-challenge-2024"><em>"Image Matching Challenge 2024 - Hexathlon"</em></a> (CVPR'24 Workshop). <a href="https://github.com/HaosenSUN/IMC-2024">Our solution</a> was released.</li>
 <li style="margin-bottom: 4px;"><em>2023.11</em>: Received a <a href="https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing">Silver medal</a> 🥈 in <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime"><em>"Google - Fast or Slow? Predict AI Model Runtime"</em></a>. <a href="https://github.com/HaosenSUN/Google-Competition">Our solution</a> was released.</li>
 </div>
 </ul>
 
-<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #011F5B; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 8px;">
+<button id="toggle-news-btn" onclick="toggleNews2024()" style="background-color: #011F5B; color: white; border: none; padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 13px; margin-top: 8px; margin-bottom: 4px;">
   Show more
 </button>
+</div>
 
 <script>
 function toggleNews2024() {
@@ -100,7 +104,7 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. 
 
 **Haosen Sun<sup>\*</sup>**, Hongjue Zhao<sup>\*</sup>, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
-_International Conference on Learning Representations (ICLR)_, 2026
+<strong style="color:#011F5B;">ICLR 2026</strong>
 
 [**[Project Page]**](https://odesteer.github.io/) [**[Paper]**](https://arxiv.org/pdf/2602.17560) [**[Code]**](https://github.com/ZhaoHongjue/odesteer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>A unified <strong>ODE-based</strong> framework for <strong>multi-step</strong> and <strong>adaptive</strong> activation steering guided by barrier functions.</font>
@@ -122,11 +126,11 @@ _International Conference on Learning Representations (ICLR)_, 2026
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-_Annual Meeting of the Association for Computational Linguistics (ACL Main) (<strong style="color:#990000;">Oral</strong>)_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
+<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong>; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
-- <font size=2>Shows that progress reasoning is <strong>unstable</strong> in current VLMs, and becomes more robust with explicitly trained <strong>coarse-to-fine</strong> models (<a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">ProgressLM-3B</a>).</font>
+- <font size=2>Reveals that vanilla VLMs <strong>struggle</strong> to estimate task progress from a single observation; <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm"><strong>ProgressLM-3B</strong></a> (SFT + RL) addresses this via <strong>episodic retrieval</strong> and <strong>mental simulation</strong>.</font>
 
 </div>
 </div>
@@ -138,10 +142,10 @@ _Annual Meeting of the Association for Computational Linguistics (ACL Main) (<st
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
-_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025; <strong style="color:#990000;">Oral</strong> @ [_ICCV 2025 LongVid-Foundations_](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></strong>
+<strong style="color:#011F5B;">CVPR 2025</strong>; _<strong style="color:#990000;">Oral</strong> @ [ICCV 2025 LongVid-Foundations](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></strong>_
 
 [**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
+- <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA: <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
 - <font size=2>Our framework <strong><em>T*</em></strong> reframed temporal search as spatial search with adaptive zooming, boosting GPT-4o from 50.5% to <strong>53.1%</strong> and LLaVA-OV from <em>56.5%</em> to <strong>62.4%</strong> on LongVideoBench XL.</font>
 
 </div>
@@ -154,7 +158,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025; <strong st
 
 **Haosen Sun**, Lujun Li<sup>†</sup>, Peijie Dong, Zimian Wei, Shitong Shao
 
-_European Conference on Computer Vision (ECCV)_, 2024
+<strong style="color:#011F5B;">ECCV 2024</strong>
 
 [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf) [**[Code]**](https://github.com/lliai/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).</font>
@@ -170,7 +174,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Liu<sup>†</sup>, Yike Guo<sup>†</sup>
 
-_European Conference on Computer Vision (ECCV)_, 2024
+<strong style="color:#011F5B;">ECCV 2024</strong>
 
 [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) [**[Code]**](https://github.com/lliai/Auto-GAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce Auto-GAS, the first training-free Generation Architecture Search (GAS) framework enabled by an auto-discovered proxy, which achieves competitive scores with 110× faster search than GAN Compression.</font>
@@ -185,10 +189,10 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang  
 
-_Arxiv_, Dec 2023
+**arXiv Preprint**, Dec 2023
 
 [**[Project Page]**](https://inpaint4dnerf.github.io/) [**[Paper]**](https://arxiv.org/abs/2401.00208) [**[Code]**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general which can be readily extended to 4D dynamic NeRFs.</font>
+- <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general and can be readily extended to 4D dynamic NeRFs.</font>
 
 </div>
 </div>
@@ -211,7 +215,7 @@ _Arxiv_, Dec 2023
 
 **Haosen Sun<sup>\*</sup>**, Hongjue Zhao<sup>\*</sup>, Jiangtao Kong, Xiaochang Li, Qineng Wang, Liwei Jiang, Qi Zhu, Tarek F. Abdelzaher, Yejin Choi, Manling Li<sup>†</sup>, Huajie Shao<sup>†</sup>
 
-_International Conference on Learning Representations (ICLR)_, 2026
+<strong style="color:#011F5B;">ICLR 2026</strong>
 
 [**[Project Page]**](https://odesteer.github.io/) [**[Paper]**](https://arxiv.org/pdf/2602.17560) [**[Code]**](https://github.com/ZhaoHongjue/odesteer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>A unified <strong>ODE-based</strong> framework for <strong>multi-step</strong> and <strong>adaptive</strong> activation steering guided by barrier functions.</font>
@@ -233,11 +237,11 @@ _International Conference on Learning Representations (ICLR)_, 2026
 
 Jianshu Zhang<sup>\*</sup>, Chengxuan Qian<sup>\*</sup>, **Haosen Sun**, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
 
-_Annual Meeting of the Association for Computational Linguistics (ACL Main) (<strong style="color:#990000;">Oral</strong>)_, 2026; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
+<strong style="color:#990000;">Oral</strong> @ <strong style="color:#011F5B;">ACL 2026</strong>; [_ICLR 2026 Workshop on World Models_](https://sites.google.com/view/iclr-2026-workshop-world-model/home)
 
 [**[Project Page]**](https://progresslm.github.io/ProgressLM/) [**[Paper]**](https://arxiv.org/pdf/2601.15224) [**[Code]**](https://github.com/ProgressLM/ProgressLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2><a href="https://huggingface.co/datasets/Raymond-Qiancx/ProgressLM-Dataset">PROGRESS-BENCH</a>: a benchmark for <em>long-horizon progress reasoning</em> in VLMs, with controlled <strong>modality, viewpoint, and answerability</strong>.</font>
-- <font size=2>Shows that progress reasoning is <strong>unstable</strong> in current VLMs, and becomes more robust with explicitly trained <strong>coarse-to-fine</strong> models (<a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm">ProgressLM-3B</a>).</font>
+- <font size=2>Reveals that vanilla VLMs <strong>struggle</strong> to estimate task progress from a single observation; <a href="https://huggingface.co/collections/Raymond-Qiancx/progresslm"><strong>ProgressLM-3B</strong></a> (SFT + RL) addresses this via <strong>episodic retrieval</strong> and <strong>mental simulation</strong>.</font>
 
 </div>
 </div>
@@ -255,12 +259,12 @@ _Annual Meeting of the Association for Computational Linguistics (ACL Main) (<st
 
 Xinye Yang<sup>\*</sup>, Junhao Wang<sup>\*</sup>, **Haosen Sun<sup>‡</sup>**, Xuesheng Zhang, Zebang Liu, Gaochao Xu, Yiwei Chen<sup>†</sup>
 
-_Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
+<strong style="color:#011F5B;">AAAI 2026</strong>
 
 [**[Paper]**](https://aaai.org/conference/aaai/aaai-26/)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- <font size=2>FlowDistill leverages <strong>invertible normalizing flows</strong> to achieve <strong>lossless</strong>  teacher-to-student knowledge transfer.</font>
+- <font size=2>FlowDistill leverages <strong>invertible normalizing flows</strong> to achieve <strong>lossless</strong> teacher-to-student knowledge transfer.</font>
 - <font size=2>It outperforms diffusion-based distillation (+2.1%) while cutting inference <strong>3.5×</strong>, advancing SOTA across tasks.</font>
 
 
@@ -274,10 +278,10 @@ _Association for the Advancement of Artificial Intelligence (AAAI)_, 2026
 
 Jinhui Ye<sup>\*</sup>, Zihan Wang<sup>\*</sup>, **Haosen Sun**, Keshigeyan Chandrasegaran, Zane Durante, Cristobal Eyzaguirre, Yonatan Bisk, Juan Carlos Niebles, Ehsan Adeli, Fei-Fei Li, Jiajun Wu, Manling Li
 
-_Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025; <strong style="color:#990000;">Oral</strong> @ [_ICCV 2025 LongVid-Foundations_](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by Stanford AI Blog</strong>
+<strong style="color:#011F5B;">CVPR 2025</strong>; _<strong style="color:#990000;">Oral</strong> @ [ICCV 2025 LongVid-Foundations](https://ramoscsv.github.io/longvid_foundations/), <strong style="color:#990000;">Featured by <a href="https://ai.stanford.edu/blog/tstar/" target="_blank">Stanford AI Blog</a></strong>_
 
 [**[Project Page]**](https://longvideohaystack.github.io/) [**[Paper]**](https://arxiv.org/pdf/2504.02259) [**[Code]**](https://github.com/LongVideoHaystack/TStar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA scores <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
+- <font size=2>We introduce <strong>LongVideoHaystack (LV-Haystack)</strong>, a 480-hour dataset for keyframe search in long videos, with 15,092 human-annotated instances (SOTA: <strong>2.1%</strong> Temporal F<sub>1</sub>).</font>
 - <font size=2>Our framework <strong><em>T*</em></strong> reframed temporal search as spatial search with adaptive zooming, boosting GPT-4o from 50.5% to <strong>53.1%</strong> and LLaVA-OV from <em>56.5%</em> to <strong>62.4%</strong> on LongVideoBench XL.</font>
 
 </div>
@@ -290,7 +294,7 @@ _Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025; <strong st
 
 **Haosen Sun**, Lujun Li<sup>†</sup>, Peijie Dong, Zimian Wei, Shitong Shao
 
-_European Conference on Computer Vision (ECCV)_, 2024
+<strong style="color:#011F5B;">ECCV 2024</strong>
 
 [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00676.pdf) [**[Code]**](https://github.com/lliai/Auto-DAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We present Auto-DAS, an automatic proxy discovery framework using an Evolutionary Algorithm (EA) for training-free Distillation-aware Architecture Search (DAS).</font>
@@ -306,7 +310,7 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 Lujun Li, **Haosen Sun**, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Liu<sup>†</sup>, Yike Guo<sup>†</sup>
 
-_European Conference on Computer Vision (ECCV)_, 2024
+<strong style="color:#011F5B;">ECCV 2024</strong>
 
 [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) [**[Code]**](https://github.com/lliai/Auto-GAS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - <font size=2>We introduce Auto-GAS, the first training-free Generation Architecture Search (GAS) framework enabled by an auto-discovered proxy, which achieves competitive scores with 110× faster search than GAN Compression.</font>
@@ -321,10 +325,10 @@ _European Conference on Computer Vision (ECCV)_, 2024
 
 Han Jiang<sup>\*</sup>, **Haosen Sun<sup>\*</sup>**, Ruoxuan Li<sup>\*</sup>, Yu-Wing Tai, Chi-Keung Tang
 
-_Arxiv_, Dec 2023
+**arXiv Preprint**, Dec 2023
 
 [**[Project Page]**](https://inpaint4dnerf.github.io/) [**[Paper]**](https://arxiv.org/abs/2401.00208) [**[Code]**](https://github.com/HaosenSUN/Inpaint4DNeRF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general which can be readily extended to 4D dynamic NeRFs.</font>
+- <font size=2>Inpaint4DNeRF can generate prompt-based objects guided by the seed images and their 3D proxies while preserving multiview consistency. Our generative baseline framework is general and can be readily extended to 4D dynamic NeRFs.</font>
 
 </div>
 </div>
@@ -336,10 +340,10 @@ _Arxiv_, Dec 2023
 
 Han Jiang<sup>\*</sup>, Ruoxuan Li<sup>\*</sup>, **Haosen Sun**, Yu-Wing Tai, Chi-Keung Tang
 
-_Arxiv_, May 2023
+**arXiv Preprint**, May 2023
 
 [**[Paper]**](https://arxiv.org/abs/2305.12843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- <font size=2>We proposes a method to align and merge pre-trained NeRF models of partially overlapping 3D scenes using a generalized registration pipeline, incorporating key point detection, point set registration, and universal pre-trained descriptor networks with contrastive learning strategy.</font>
+- <font size=2>We propose a method to align and merge pre-trained NeRF models of partially overlapping 3D scenes using a generalized registration pipeline, incorporating key point detection, point set registration, and universal pre-trained descriptor networks with a contrastive learning strategy.</font>
 
 </div>
 </div>
@@ -381,24 +385,23 @@ function showAllPubs() {
 - HKUST Dean’s List Awards
 - [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024)
 - [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime)
-- **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
-- Kerry Holdings Limited Scholarship (HKUST Admissions Scholarship, HK$280,000)	
+- Nominated for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
+- Kerry Holdings Limited Scholarship (HKUST Admissions Scholarship, HK$280,000)
 - [**Bronze Medal**](../images/CPhO.jpg) and [**the First Prize**](../images/CPhO1.jpg) in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%
 
 
-# 📖 Educations
-- *2026.08 - 2030.06*, **_Ph.D._** in **Computer and Information Science**, <img src='../images/upenn_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>University of Pennsylvania, _Philadelphia, PA_
-- *2024.09 - 2026.06*, **_M.S._** in **Computer Science**, <img src='../images/northwestern_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>Northwestern University, _Evanston, IL_
-- *2020.09 - 2024.06*, **_BSc_** in **Data Science and Technology**, <span style='display:inline-block; width:15px; text-align:center; vertical-align:middle; margin:0 3px 0 0;'><img src='../images/hkust_logo.png' style='height:20px; width:auto;'></span>Hong Kong University of Science and Technology (HKUST), _Hong Kong_
+# 📖 Education
+- *2026.08 – 2030.06*, **_Ph.D._** in **Computer and Information Science**, <img src='../images/upenn_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>University of Pennsylvania, _Philadelphia, PA_
+- *2024.09 – 2026.06*, **_M.S._** in **Computer Science**, <img src='../images/northwestern_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>Northwestern University, _Evanston, IL_
+- *2020.09 – 2024.06*, **_BSc_** in **Data Science and Technology**, <span style='display:inline-block; width:15px; text-align:center; vertical-align:middle; margin:0 3px 0 0;'><img src='../images/hkust_logo.png' style='height:20px; width:auto;'></span>Hong Kong University of Science and Technology (HKUST), _Hong Kong_
 
 
-# 💬 Academic Services
+# 💬 Academic Service
 - *Conference Reviewer:* ICLR, NeurIPS, ACM Multimedia
 
 
 # 💻 Internships
-- *07/2024 – 09/2024*, **_Research Intern_**, Shanghai Artificial Intelligence Laboratory, _China_.
+- *2024.07 – 2024.09*, **_Research Intern_**, Shanghai Artificial Intelligence Laboratory, _China_.
   <!--working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).-->
-  
-- *10/2023 – 05/2024*, **_Research Intern_**, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
+- *2023.10 – 2024.05*, **_Research Intern_**, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
    <!--working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).-->
