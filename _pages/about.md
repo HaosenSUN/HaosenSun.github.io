@@ -37,7 +37,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4; margin-bottom: 0;">
-<li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026</strong> (Main)!</li>
+<li style="margin-bottom: 4px;"><em>2026.04</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM</a> was selected for an <strong style="color:#990000;">Oral</strong> presentation at <strong>ACL 2026</strong> (Main)!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: New work coming to <em>arXiv</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM: towards progress reasoning in Vision-Language Models</a>.</li>
 <div id="news-2024" style="display: none;">
@@ -347,17 +347,33 @@ _Arxiv_, May 2023
 <h3>Additional Publications</h3>
 
 <ul style="list-style-type: disc; margin-left: 20px;">
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122006888">Measuring road safety achievement based on EWM-GRA-SVD: A decision-making support system for APEC countries</a>, Faan Chen<sup>*</sup>, Lin Shi<sup>*</sup>, Yaxin Li, Qilin Wang, <strong>Haosen Sun</strong>, Xinyu Tang, Jiacheng Zu, Zhenwei Sun, <em><strong>Knowledge-Based Systems</strong></em></li>
+<li style="margin-bottom: 6px;">
+<a href="https://dl.acm.org/doi/10.1145/3512527.3531435">Hierarchical Cross‑Modality Semantic Correlation Learning Model for Multimodal Fake News Detection</a><br>
+<strong>Haosen Sun</strong>, Wenji Mao, Junwei Qian, Xueyan Wang<br>
+<em>International Workshop on Multimedia AI Against Disinformation (MAD@ACM MM)</em>, 2022
+</li>
+<li style="margin-bottom: 6px;">
+<a href="https://dl.acm.org/doi/10.1145/3512527.3531434">Multimodal Fake News Detection via Token‑Level Fusion and Attention‑Enhanced Cross‑Modal Interaction</a><br>
+<strong>Haosen Sun</strong>, Wenji Mao, Junwei Qian, Xueyan Wang<br>
+<em>International Workshop on Multimedia AI Against Disinformation (MAD@ACM MM)</em>, 2022
+</li>
+<li style="margin-bottom: 6px;">
+<a href="https://dl.acm.org/doi/abs/10.1145/3512527.3531428">Fine‑grained Image Captioning with CLIP Reward</a><br>
+Wenji Mao, <strong>Haosen Sun</strong>, Xueyan Wang, Jiannan Li<br>
+<em>International Workshop on Multimedia AI Against Disinformation (MAD@ACM MM)</em>, 2022
+</li>
+<li style="margin-bottom: 6px;">
+<a href="https://dl.acm.org/doi/abs/10.1145/3512527.3531436">Image Captioning towards Data Science Concepts</a><br>
+Wenji Mao, <strong>Haosen Sun</strong>, Haoyang Yu, Xueyan Wang<br>
+<em>International Workshop on Multimedia AI Against Disinformation (MAD@ACM MM)</em>, 2022
+</li>
 </ul>
-
 </div>
 
 <script>
 function showSelectedPubs() {
   document.getElementById("selected-publications").style.display = "block";
   document.getElementById("all-publications").style.display = "none";
-
-  // Update button styles
   document.getElementById("show-selected-btn").style.backgroundColor = "#011F5B";
   document.getElementById("show-selected-btn").style.color = "white";
   document.getElementById("show-all-btn").style.backgroundColor = "#d3d3d3";
@@ -367,39 +383,9 @@ function showSelectedPubs() {
 function showAllPubs() {
   document.getElementById("selected-publications").style.display = "none";
   document.getElementById("all-publications").style.display = "block";
-
-  // Update button styles
-  document.getElementById("show-all-btn").style.backgroundColor = "#011F5B";
-  document.getElementById("show-all-btn").style.color = "white";
   document.getElementById("show-selected-btn").style.backgroundColor = "#d3d3d3";
   document.getElementById("show-selected-btn").style.color = "#333";
+  document.getElementById("show-all-btn").style.backgroundColor = "#011F5B";
+  document.getElementById("show-all-btn").style.color = "white";
 }
 </script>
-
-# 🎖 Honors and Awards
-- HKUST Dean’s List Awards
-- [**Silver Medal**](https://drive.google.com/file/d/1Hrlh49hSojx8Ri6tRwef9uq5Tv_5OW8i/view?usp=sharing) in CVPR’24 Workshop [_(Image Matching Challenge 2024 - Hexathlon)_](https://www.kaggle.com/competitions/image-matching-challenge-2024)
-- [**Silver Medal**](https://drive.google.com/file/d/19Z22-iGbAlimB5nizjaBJvcMf9VYsrUo/view?usp=sharing) in Kaggle Competition [_(Google - Fast or Slow? Predict AI Model Runtime)_](https://www.kaggle.com/competitions/predict-ai-model-runtime)
-- **Nomination** for the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award
-- Kerry Holdings Limited Scholarship (HKUST Admissions Scholarship, HK$280,000)	
-- [**Bronze Medal**](../images/CPhO.jpg) and [**the First Prize**](../images/CPhO1.jpg) in the 36<sup>th</sup> Chinese Physics Olympiad (CPHO), Top 0.1%
-
-
-# 📖 Educations
-- *2026.08 - 2030.06*, **_Ph.D._** in **Computer and Information Science**, <img src='../images/upenn_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>University of Pennsylvania, _Philadelphia, PA_
-- *2024.09 - 2026.06*, **_M.S._** in **Computer Science**, <img src='../images/northwestern_logo.png' style='width:20px; height:20px; vertical-align:middle; margin:0 3px 0 0;'>Northwestern University, _Evanston, IL_
-- *2020.09 - 2024.06*, **_BSc_** in **Data Science and Technology**, <span style='display:inline-block; width:15px; text-align:center; vertical-align:middle; margin:0 3px 0 0;'><img src='../images/hkust_logo.png' style='height:20px; width:auto;'></span>Hong Kong University of Science and Technology (HKUST), _Hong Kong_
-
-
-# 💬 Academic Services
-- *Conference Reviewer:* ICLR, NeurIPS, ACM Multimedia
-
-
-# 💻 Internships
-- *07/2024 – 09/2024*, **_Research Intern_**, Shanghai Artificial Intelligence Laboratory, _China_.
-  <!--working closely with [Dr. Peng Ye](https://scholar.google.co.uk/citations?user=UEZZP5QAAAAJ&hl=en).-->
-  
-- *10/2023 – 05/2024*, **_Research Intern_**, Hong Kong Generative AI Research and Development Center (HKGAI), _Hong Kong_.
-   <!--working closely with [Dr. Lujun Li](https://scholar.google.com/citations?user=aPl3DjIAAAAJ&hl=zh-CN).-->
-
-
