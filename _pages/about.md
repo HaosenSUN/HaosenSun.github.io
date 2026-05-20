@@ -30,7 +30,7 @@ I also collaborated with [Prof. Xiaomeng Li](https://xmengli.github.io/) on Medi
 -->
 
 <div class="research-card" style="background: linear-gradient(to right, rgba(1,31,91,0.05) 0%, #ffffff 55%); border-radius: 3px 8px 8px 3px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); padding: 1em 1.3em; margin: 1em 0;">
-My research spans <strong>vision</strong>, <strong>language</strong>, and <strong>robotics</strong>, focusing on <span style="color:#011F5B;"><strong>Foundation Models</strong></span>, <span style="color:#011F5B;"><strong>Multimodal Reasoning</strong></span>, and <span style="color:#011F5B;"><strong>Generative World Modeling</strong></span>. I aim to build <span style="color:#011F5B;"><strong>efficient</strong></span>, <span style="color:#011F5B;"><strong>controllable</strong></span>, and <span style="color:#011F5B;"><strong>interpretable</strong></span> models that can <em>reason about</em> and <em>interact with</em> the physical world.
+My research spans 👁️ <strong>vision</strong>, 💭 <strong>language</strong>, and 🦾 <strong>robotics</strong>, focusing on <span style="color:#011F5B;"><strong>Foundation Models</strong></span>, <span style="color:#011F5B;"><strong>Multimodal Reasoning</strong></span>, and <span style="color:#011F5B;"><strong>Generative World Modeling</strong></span>. I aim to build <span style="color:#011F5B;">efficient</span>, <span style="color:#011F5B;">controllable</span>, and <span style="color:#011F5B;">interpretable</span> models that can <em>reason about</em> and <em>interact with</em> the physical world.
 <p style="margin: 0.65em 0 0; padding-top: 0.55em; border-top: 1px solid rgba(1,31,91,0.08); font-size: 0.86em; color: #999;">Happy to chat about ideas, new directions, collaborations, or opportunities!</p>
 </div>
 
