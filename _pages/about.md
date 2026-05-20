@@ -39,8 +39,8 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 📢 News
-<div style="background:#ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 0.8em 0.5em;">
-<ul style="list-style-type: disc; margin-left: 14px; line-height: 1.4; margin-bottom: 0;">
+<div style="background:#ffffff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); padding: 0.8em 1em 0.8em 0.3em;">
+<ul style="list-style-type: disc; margin-left: 10px; line-height: 1.4; margin-bottom: 0;">
 <li style="margin-bottom: 4px;"><em>2026.05</em>: <a href="https://arxiv.org/pdf/2601.15224">ProgressLM</a> was selected for an <strong style="color:#990000;">Oral</strong> presentation at <strong>ACL 2026</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.04</em>: One paper accepted by <strong>ACL 2026 (Main)</strong>!</li>
 <li style="margin-bottom: 4px;"><em>2026.01</em>: One paper accepted by <strong>ICLR 2026</strong>!</li>
