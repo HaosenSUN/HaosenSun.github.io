@@ -299,10 +299,7 @@ html {
 
 /* Sidebar social icon hover */
 .author__urls a {
-  transition: color 0.2s ease, transform 0.2s ease;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3em;
+  transition: color 0.2s ease;
 }
 
 .author__urls a:hover {
