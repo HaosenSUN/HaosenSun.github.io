@@ -466,3 +466,17 @@ html {
 .paper-box-text > ul {
   padding-left: 1.1em;
 }
+
+/* Mobile social icon tap feedback */
+.author__urls_sm a {
+  display: inline-block;
+  padding: 0.25em;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(1, 31, 91, 0.15);
+  transition: opacity 0.1s ease, transform 0.12s ease;
+}
+
+.author__urls_sm a:active {
+  opacity: 0.5;
+  transform: scale(0.82);
+}
