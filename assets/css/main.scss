@@ -312,6 +312,11 @@ html {
 
 .author__urls i {
   transition: transform 0.2s ease;
+  opacity: 0.80;
+}
+
+.author__urls a:hover i {
+  opacity: 1;
 }
 
 /* Academic Service tags */
@@ -465,9 +470,19 @@ html {
 }
 
 /* Mobile social icon tap feedback */
+.author__urls_sm {
+  font-size: 1.45em;
+}
+
+@media (max-width: 924px) {
+  .author__urls_sm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.1em;
+  }
+}
+
 .author__urls_sm a {
-  display: inline-block;
-  padding: 0.25em;
   touch-action: manipulation;
   -webkit-tap-highlight-color: rgba(1, 31, 91, 0.15);
   transition: opacity 0.1s ease, transform 0.12s ease;
