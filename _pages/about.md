@@ -117,7 +117,7 @@ _<sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author/Co-advisor. 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">ACL 2026 (Oral)</div>
+<div class="badge">ACL 2026</div>
 <img src='images/PGLM.png' alt="sym" width="100%">
 </div>
 </div>
@@ -228,7 +228,7 @@ arXiv Preprint 2023
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">ACL 2026 (Oral)</div>
+<div class="badge">ACL 2026</div>
 <img src='images/PGLM.png' alt="sym" width="100%">
 </div>
 </div>
