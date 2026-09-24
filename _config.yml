@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haosen Sun"
   avatar           : "images/Haosen_New.png"
-  bio              : "<img src='/images/upenn_logo.png' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>CIS PhD Student<br><span style='font-size:0.78em;color:#888;'>GRASP Lab · IDEAS Center</span>"
+  bio              : "<img src='/images/upenn_logo.png' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>CIS Ph.D. Student<br><span style='font-size:0.78em;color:#888;'>GRASP Lab · IDEAS Center</span>"
   location         : "Philadelphia, USA"
   employer         :
   pubmed           : 

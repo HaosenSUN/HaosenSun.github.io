@@ -492,3 +492,453 @@ html {
   opacity: 0.5;
   transform: scale(0.82);
 }
+
+/* ========== Artistic Visual Effects ========== */
+
+/* Animated gradient background for body */
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Chinese landscape painting - dynamic mountains with varied peaks and valleys */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:
+    /* 远山 - Distant mountains with varied heights */
+    /* Tall peak left */
+    radial-gradient(ellipse 350px 80px at 15% 76%, rgba(1, 31, 91, 0.10) 0%, rgba(1, 31, 91, 0.03) 70%, transparent 100%),
+    /* Medium peak center */
+    radial-gradient(ellipse 450px 55px at 48% 80%, rgba(1, 31, 91, 0.08) 0%, rgba(1, 31, 91, 0.02) 70%, transparent 100%),
+    /* Low hill right */
+    radial-gradient(ellipse 320px 35px at 78% 83%, rgba(1, 31, 91, 0.07) 0%, rgba(1, 31, 91, 0.015) 70%, transparent 100%),
+    /* Background ridge */
+    radial-gradient(ellipse 800px 25px at 35% 82%, rgba(1, 31, 91, 0.06) 0%, rgba(1, 31, 91, 0.008) 70%, transparent 100%),
+
+    /* 中山 - Middle mountains with dramatic height variation */
+    /* High peak left */
+    radial-gradient(ellipse 280px 180px at 22% 85%, rgba(1, 31, 91, 0.18) 0%, rgba(1, 31, 91, 0.05) 60%, transparent 100%),
+    /* Tall peak right */
+    radial-gradient(ellipse 320px 200px at 72% 84%, rgba(1, 31, 91, 0.19) 0%, rgba(1, 31, 91, 0.06) 60%, transparent 100%),
+    /* Lower ridge center */
+    radial-gradient(ellipse 400px 95px at 48% 91%, rgba(1, 31, 91, 0.13) 0%, rgba(1, 31, 91, 0.03) 60%, transparent 100%),
+    /* Small peak far left */
+    radial-gradient(ellipse 200px 120px at 8% 88%, rgba(1, 31, 91, 0.15) 0%, rgba(1, 31, 91, 0.04) 60%, transparent 100%),
+
+    /* 白雾层 - White mist in valleys */
+    radial-gradient(ellipse 380px 80px at 35% 92%, rgba(255, 255, 255, 0.11) 0%, transparent 100%),
+    radial-gradient(ellipse 320px 70px at 65% 93%, rgba(255, 255, 255, 0.10) 0%, transparent 100%),
+
+    /* 近山 - Foreground mountains with sharp peaks */
+    /* Towering peak left */
+    radial-gradient(ellipse 320px 220px at 12% 95%, rgba(1, 31, 91, 0.20) 0%, rgba(1, 31, 91, 0.07) 50%, transparent 100%),
+    /* Highest peak right */
+    radial-gradient(ellipse 360px 250px at 82% 94%, rgba(1, 31, 91, 0.22) 0%, rgba(1, 31, 91, 0.08) 50%, transparent 100%),
+    /* Medium hill center */
+    radial-gradient(ellipse 250px 120px at 50% 97%, rgba(1, 31, 91, 0.16) 0%, rgba(1, 31, 91, 0.05) 50%, transparent 100%),
+
+    /* 高山云雾 - Mist around peaks */
+    radial-gradient(circle 180px at 12% 85%, rgba(255, 255, 255, 0.08) 0%, transparent 100%),
+    radial-gradient(circle 200px at 82% 84%, rgba(255, 255, 255, 0.10) 0%, transparent 100%),
+    radial-gradient(circle 150px at 50% 90%, rgba(255, 255, 255, 0.07) 0%, transparent 100%),
+
+    /* 印章 - Red seal stamp */
+    radial-gradient(circle 100px at 93% 7%, rgba(153, 0, 0, 0.11) 0%, rgba(153, 0, 0, 0.04) 50%, transparent 100%),
+
+    /* 天空 - Sky gradient */
+    linear-gradient(180deg,
+      rgba(1, 31, 91, 0.02) 0%,
+      transparent 35%,
+      transparent 100%
+    );
+  animation: inkWash 35s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* 飘渺云雾 - Floating ethereal mist (dynamic breathing effect) */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:
+    /* Flowing mist across distant mountains */
+    radial-gradient(ellipse 500px 180px at 25% 80%, rgba(255, 255, 255, 0.12) 0%, transparent 100%),
+    radial-gradient(ellipse 450px 150px at 70% 77%, rgba(255, 255, 255, 0.10) 0%, transparent 100%),
+
+    /* Floating accent orbs for depth */
+    radial-gradient(circle 250px at 15% 68%, rgba(1, 31, 91, 0.06) 0%, transparent 100%),
+    radial-gradient(circle 280px at 85% 62%, rgba(1, 31, 91, 0.05) 0%, transparent 100%),
+    radial-gradient(circle 200px at 50% 55%, rgba(1, 31, 91, 0.04) 0%, transparent 100%),
+
+    /* Floating light particles - scattered across screen */
+    radial-gradient(circle 7px at 12% 85%, rgba(255, 255, 255, 0.38) 0%, transparent 100%),
+    radial-gradient(circle 5px at 28% 72%, rgba(255, 255, 255, 0.25) 0%, transparent 100%),
+    radial-gradient(circle 6px at 45% 65%, rgba(255, 255, 255, 0.32) 0%, transparent 100%),
+    radial-gradient(circle 8px at 58% 78%, rgba(255, 255, 255, 0.40) 0%, transparent 100%),
+    radial-gradient(circle 5px at 72% 68%, rgba(255, 255, 255, 0.28) 0%, transparent 100%),
+    radial-gradient(circle 7px at 85% 75%, rgba(255, 255, 255, 0.35) 0%, transparent 100%),
+    radial-gradient(circle 6px at 18% 58%, rgba(255, 255, 255, 0.22) 0%, transparent 100%),
+    radial-gradient(circle 5px at 38% 82%, rgba(255, 255, 255, 0.26) 0%, transparent 100%),
+    radial-gradient(circle 7px at 63% 55%, rgba(255, 255, 255, 0.33) 0%, transparent 100%),
+    radial-gradient(circle 6px at 78% 88%, rgba(255, 255, 255, 0.30) 0%, transparent 100%),
+    radial-gradient(circle 5px at 92% 62%, rgba(255, 255, 255, 0.24) 0%, transparent 100%),
+    radial-gradient(circle 8px at 8% 45%, rgba(255, 255, 255, 0.37) 0%, transparent 100%),
+    radial-gradient(circle 6px at 33% 38%, rgba(255, 255, 255, 0.29) 0%, transparent 100%),
+    radial-gradient(circle 7px at 52% 92%, rgba(255, 255, 255, 0.34) 0%, transparent 100%),
+    radial-gradient(circle 5px at 68% 42%, rgba(255, 255, 255, 0.27) 0%, transparent 100%),
+    radial-gradient(circle 6px at 88% 52%, rgba(255, 255, 255, 0.31) 0%, transparent 100%);
+  animation: mistFlow 20s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 1;
+}
+
+@keyframes inkWash {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  25% {
+    transform: translateY(-0.8%) scale(1.008) translateX(0.3%);
+    opacity: 0.96;
+  }
+  50% {
+    transform: translateY(0.4%) scale(0.995) translateX(-0.2%);
+    opacity: 0.98;
+  }
+  75% {
+    transform: translateY(-0.3%) scale(1.004) translateX(0.15%);
+    opacity: 0.97;
+  }
+}
+
+@keyframes mistFlow {
+  0%, 100% {
+    transform: translate(0, 0) scale(1) rotate(0deg);
+    opacity: 0.5;
+  }
+  10% {
+    transform: translate(2.5%, -2%) scale(0.7) rotate(1.5deg);
+    opacity: 0.2;
+  }
+  20% {
+    transform: translate(4%, -4.5%) scale(1.1) rotate(-1deg);
+    opacity: 0.55;
+  }
+  30% {
+    transform: translate(2%, -6.5%) scale(0.65) rotate(1.2deg);
+    opacity: 0.2;
+  }
+  40% {
+    transform: translate(-1%, -8%) scale(1.15) rotate(-0.8deg);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translate(-2.5%, -9.5%) scale(0.6) rotate(1deg);
+    opacity: 0.2;
+  }
+  60% {
+    transform: translate(-1.5%, -7.5%) scale(1.2) rotate(-1.2deg);
+    opacity: 0.58;
+  }
+  70% {
+    transform: translate(1%, -5.5%) scale(0.7) rotate(0.8deg);
+    opacity: 0.2;
+  }
+  80% {
+    transform: translate(3%, -3.5%) scale(1.05) rotate(-0.5deg);
+    opacity: 0.52;
+  }
+  90% {
+    transform: translate(2%, -1.5%) scale(0.75) rotate(0.3deg);
+    opacity: 0.2;
+  }
+}
+
+/* Fade-in animation for content */
+.page__content > * {
+  animation: fadeInUp 0.6s ease-out backwards;
+}
+
+.page__content > *:nth-child(1) { animation-delay: 0.1s; }
+.page__content > *:nth-child(2) { animation-delay: 0.2s; }
+.page__content > *:nth-child(3) { animation-delay: 0.3s; }
+.page__content > *:nth-child(4) { animation-delay: 0.4s; }
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Enhanced research card with animated gradient border */
+.research-card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.research-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg,
+    rgba(1, 31, 91, 0.08),
+    rgba(153, 0, 0, 0.05),
+    rgba(1, 31, 91, 0.08));
+  background-size: 300% 300%;
+  border-radius: 3px 8px 8px 3px;
+  z-index: -1;
+  animation: gradientRotate 6s ease infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.research-card:hover::before {
+  opacity: 1;
+}
+
+.research-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 24px rgba(1, 31, 91, 0.08);
+}
+
+@keyframes gradientRotate {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Floating effect for paper boxes */
+.paper-box {
+  animation: floatIn 0.8s ease-out backwards;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.paper-box:nth-child(odd) { animation-delay: 0.1s; }
+.paper-box:nth-child(even) { animation-delay: 0.2s; }
+
+.paper-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(1, 31, 91, 0.15);
+}
+
+@keyframes floatIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Glow effect for badges - slower pulse, always visible, enhanced on hover */
+.badge {
+  transition: all 0.3s ease;
+  box-shadow: 0 0 10px rgba(1, 31, 91, 0.3), 0 2px 6px rgba(1, 31, 91, 0.25);
+  animation: badgePulse 4s ease-in-out infinite;
+}
+
+@keyframes badgePulse {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(1, 31, 91, 0.3), 0 2px 6px rgba(1, 31, 91, 0.25);
+  }
+  50% {
+    box-shadow: 0 0 15px rgba(1, 31, 91, 0.5), 0 2px 6px rgba(1, 31, 91, 0.25);
+  }
+}
+
+.paper-box:hover .badge {
+  box-shadow: 0 0 30px rgba(1, 31, 91, 1), 0 0 20px rgba(1, 31, 91, 0.8), 0 2px 6px rgba(1, 31, 91, 0.25) !important;
+  transform: scale(1.15);
+  background-color: rgba(1, 31, 91, 1);
+  animation: none;
+}
+
+/* Shimmer effect for news section */
+#scroll-progress {
+  background: linear-gradient(90deg,
+    rgba(1, 31, 91, 0.6) 0%,
+    rgba(153, 0, 0, 0.4) 50%,
+    rgba(1, 31, 91, 0.6) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 3s linear infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Pulse animation for avatar - very subtle */
+.author__avatar {
+  position: relative;
+}
+
+.author__avatar::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 102%;
+  height: 102%;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(1, 31, 91, 0.3) 0%, rgba(1, 31, 91, 0.2) 40%, transparent 70%);
+  transform: translate(-50%, -50%);
+  animation: avatarPulse 3.5s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 0;
+  filter: blur(4px);
+}
+
+@keyframes avatarPulse {
+  0%, 100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.08);
+    opacity: 0.3;
+  }
+}
+
+/* Sparkle effect for important keywords - only show on hover */
+.research-card span strong {
+  position: relative;
+  display: inline-block;
+}
+
+.research-card span strong::after {
+  content: '✨';
+  position: absolute;
+  top: -12px;
+  right: -18px;
+  font-size: 0.85em;
+  opacity: 0;
+  filter: drop-shadow(0 0 4px rgba(255, 215, 0, 0.9));
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* Only animate sparkles when hovering over the research card */
+.research-card:hover span strong::after {
+  animation: sparkle 5s ease-in-out infinite;
+}
+
+/* Stagger the sparkle animations for each strong element */
+.research-card:hover span:nth-of-type(1) strong::after { animation-delay: 0s; }
+.research-card:hover span:nth-of-type(2) strong::after { animation-delay: 1.7s; }
+.research-card:hover span:nth-of-type(3) strong::after { animation-delay: 3.4s; }
+
+@keyframes sparkle {
+  0%, 85%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+  38%, 47% { opacity: 1; transform: scale(1.3) rotate(180deg); }
+}
+
+/* Timeline dot animation - pulse from bottom to top (newest to oldest) */
+.tl-item::before {
+  animation: dotPulse 3s ease-in-out infinite;
+  animation-delay: calc(var(--item-index, 0) * 0.6s);
+}
+
+/* Reverse order: first item (top/newest) gets longest delay, last item (bottom/oldest) starts first */
+.tl-item:nth-child(1)::before { --item-index: 2; }
+.tl-item:nth-child(2)::before { --item-index: 1; }
+.tl-item:nth-child(3)::before { --item-index: 0; }
+
+@keyframes dotPulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(1, 31, 91, 0.6);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(1, 31, 91, 0);
+    transform: scale(1.2);
+  }
+}
+
+/* Service tags hover glow */
+.service-tag {
+  position: relative;
+  overflow: hidden;
+}
+
+.service-tag::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(1, 31, 91, 0.2);
+  transform: translate(-50%, -50%);
+  transition: width 0.4s ease, height 0.4s ease;
+}
+
+.service-tag:hover::before {
+  width: 200%;
+  height: 200%;
+}
+
+/* News section subtle glow */
+.page__content > div[style*="background:#ffffff"] {
+  transition: box-shadow 0.3s ease;
+}
+
+.page__content > div[style*="background:#ffffff"]:hover {
+  box-shadow: 0 4px 20px rgba(1, 31, 91, 0.1);
+}
+
+/* Button ripple effect */
+.site-btn {
+  position: relative;
+  overflow: hidden;
+}
+
+.site-btn::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s ease, height 0.6s ease;
+}
+
+.site-btn:active::after {
+  width: 300px;
+  height: 300px;
+}
+
+/* Subtle zoom for paper images - instant, no blur */
+.paper-box-image img {
+  /* No transition - instant scaling to avoid blur */
+}
+
+.paper-box:hover .paper-box-image img {
+  transform: scale(1.1);
+}
+
